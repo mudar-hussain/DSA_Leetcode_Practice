@@ -3,8 +3,8 @@ class Solution {
         int min = prices[0];
         int profit = 0;
         for (int i = 1; i<prices.length; i++) {
-            profit = Math.max(profit, prices[i]-min);
-            min = Math.min(min, prices[i]);
+            profit = profit>prices[i]-min ? profit : prices[i]-min;
+            min = min < prices[i] ? min : prices[i];
         }
         return profit;
     }
