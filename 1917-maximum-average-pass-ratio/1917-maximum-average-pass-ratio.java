@@ -19,12 +19,14 @@ class Solution {
             pq.offer(new double[]{gain(p,t), p, t});
         }
 
-        double sumAvgRatio = 0;
-        while(!pq.isEmpty()) {
-            double[] top = pq.poll();
-            sumAvgRatio += (top[1] / top[2]);
+        double sum = 0.0;
+        Object[] arr = pq.toArray();
+        for (int i = 0; i < arr.length; i++) {
+            double[] c = (double[]) arr[i];
+            sum += c[1] / c[2];
         }
-        return (double)sumAvgRatio/classes.length;
+
+        return sum / classes.length;
 
     }
 
