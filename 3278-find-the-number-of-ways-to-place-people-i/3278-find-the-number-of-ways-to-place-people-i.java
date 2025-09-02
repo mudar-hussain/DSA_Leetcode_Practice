@@ -1,23 +1,23 @@
 class Solution {
     public int numberOfPairs(int[][] points) {
-        // Sort by x asc, and for equal x by y desc
-        Arrays.sort(points, (a, b) -> a[0] == b[0] ? Integer.compare(b[1], a[1])
-                                                   : Integer.compare(a[0], b[0]));
-        int n = points.length;
         int ans = 0;
-
-        for (int i = 0; i < n; i++) {
-            int yi = points[i][1];
-            int maxY = Integer.MIN_VALUE; // best floor seen so far (<= yi)
-            for (int j = i + 1; j < n; j++) {
-                int yj = points[j][1];
-                if (yj <= yi && yj > maxY) {
-                    ans++;
-                    maxY = yj; // j now becomes the blocker for any lower y
+        for(int i = 0; i<points.length; i++) {
+            for (int j = 0; j<points.length; j++) {
+                if (i == j) continue;
+                if(points[i][0] <= points[j][0] && points[i][1] >= points[j][1]) {
+                    boolean isValid = true;
+                    for (int k = 0; k<points.length; k++) {
+                        if (k == i || k == j) continue;
+                        if (points[i][0] <= points[k][0] && points[k][0] <= points[j][0] 
+                        && points[i][1] >= points[k][1] && points[k][1] >= points[j][1]) {
+                            isValid = false;
+                            break;
+                        }
+                    }
+                    if(isValid) ans++;
                 }
             }
         }
         return ans;
-        
     }
 }
