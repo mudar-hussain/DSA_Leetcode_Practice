@@ -1,23 +1,20 @@
 class Solution {
     public int numberOfPairs(int[][] points) {
-        int ans = 0;
-        for(int i = 0; i<points.length; i++) {
-            for (int j = 0; j<points.length; j++) {
-                if (i == j) continue;
-                if(points[i][0] <= points[j][0] && points[i][1] >= points[j][1]) {
-                    boolean isValid = true;
-                    for (int k = 0; k<points.length; k++) {
-                        if (k == i || k == j) continue;
-                        if (points[i][0] <= points[k][0] && points[k][0] <= points[j][0] 
-                        && points[i][1] >= points[k][1] && points[k][1] >= points[j][1]) {
-                            isValid = false;
-                            break;
-                        }
-                    }
-                    if(isValid) ans++;
+        Arrays.sort(points, (a,b) -> a[0]==b[0] ? Integer.compare(b[1], a[1]) : Integer.compare(a[0], b[0]));
+        int n = points.length;
+        int count = 0;
+
+        for (int i = 0; i<n; i++) { //A
+            int yi = points[i][1];
+            int prevY = Integer.MIN_VALUE;
+            for (int j = i+1; j<n; j++) { //B
+                int yj = points[j][1];
+                if(yi >= yj && yj > prevY) {
+                    count++;
+                    prevY = yj;
                 }
             }
         }
-        return ans;
+        return count;
     }
 }
