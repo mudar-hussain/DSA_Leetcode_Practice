@@ -7,7 +7,6 @@ class Solution {
             palindrome = palindrome * 10 + x%10;
             x = x/10;
         }
-        System.out.print(palindrome);
         return palindrome == xOriginal;
     }
 }
