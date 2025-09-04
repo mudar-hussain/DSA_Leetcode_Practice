@@ -55,6 +55,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0009-palindrome-number) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3830-find-closest-person](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/3830-find-closest-person) |
 ## Recursion
