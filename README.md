@@ -49,6 +49,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0001-two-sum) |
+| [3678-design-task-manager](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/3678-design-task-manager) |
 ## Linked List
 |  |
 | ------- |
@@ -73,6 +74,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 |  |
 | ------- |
 | [1917-maximum-average-pass-ratio](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1917-maximum-average-pass-ratio) |
+| [3678-design-task-manager](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/3678-design-task-manager) |
 ## Geometry
 |  |
 | ------- |
@@ -94,4 +96,12 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 |  |
 | ------- |
 | [2887-sort-vowels-in-a-string](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2887-sort-vowels-in-a-string) |
+## Design
+|  |
+| ------- |
+| [3678-design-task-manager](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/3678-design-task-manager) |
+## Ordered Set
+|  |
+| ------- |
+| [3678-design-task-manager](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/3678-design-task-manager) |
 <!---LeetCode Topics End-->
