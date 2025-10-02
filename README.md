@@ -62,6 +62,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1642-water-bottles](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1642-water-bottles) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3336-water-bottles-ii](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/3336-water-bottles-ii) |
 | [3830-find-closest-person](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/3830-find-closest-person) |
 ## Recursion
 |  |
@@ -109,4 +110,5 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1642-water-bottles) |
+| [3336-water-bottles-ii](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/3336-water-bottles-ii) |
 <!---LeetCode Topics End-->
