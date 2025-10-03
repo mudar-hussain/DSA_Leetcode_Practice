@@ -20,6 +20,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [0075-sort-colors](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0407-trapping-rain-water-ii](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0407-trapping-rain-water-ii) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1917-maximum-average-pass-ratio](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1917-maximum-average-pass-ratio) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -75,6 +76,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0407-trapping-rain-water-ii) |
 | [1917-maximum-average-pass-ratio](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1917-maximum-average-pass-ratio) |
 | [3678-design-task-manager](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/3678-design-task-manager) |
 ## Geometry
@@ -111,4 +113,12 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | ------- |
 | [1642-water-bottles](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1642-water-bottles) |
 | [3336-water-bottles-ii](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/3336-water-bottles-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0407-trapping-rain-water-ii](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0407-trapping-rain-water-ii) |
+## Matrix
+|  |
+| ------- |
+| [0407-trapping-rain-water-ii](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0407-trapping-rain-water-ii) |
 <!---LeetCode Topics End-->
