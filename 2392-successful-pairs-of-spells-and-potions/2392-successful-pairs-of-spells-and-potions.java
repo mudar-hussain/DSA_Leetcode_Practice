@@ -10,7 +10,7 @@ class Solution {
         }
         return ans;
     }
-    private int bs(int spell, int[] potions, long success) {
+    private int bs(long spell, int[] potions, long success) {
         int low = 0, high = potions.length-1, idx = -1;
         while(low<=high) {
             int mid = low + (high-low)/2;
