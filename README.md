@@ -22,6 +22,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0407-trapping-rain-water-ii](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0407-trapping-rain-water-ii) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1917-maximum-average-pass-ratio](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1917-maximum-average-pass-ratio) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -48,6 +49,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [0056-merge-intervals](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0088-merge-sorted-array) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2887-sort-vowels-in-a-string](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2887-sort-vowels-in-a-string) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -96,6 +98,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 ## Bit Manipulation
 |  |
 | ------- |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 ## Brainteaser
 |  |
@@ -136,4 +139,8 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 |  |
 | ------- |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+## Counting
+|  |
+| ------- |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 <!---LeetCode Topics End-->
