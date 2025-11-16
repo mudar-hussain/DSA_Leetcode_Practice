@@ -1,17 +1,20 @@
 class Solution {
     public List<List<Integer>> generate(int numRows) {
-        List<List<Integer>> ans = new ArrayList<>();
-        for(int i = 0; i<numRows; i++) {
-            List<Integer> li = new ArrayList<>();
+        List<List<Integer>> pascal = new ArrayList<>();
+        for (int i = 0; i<numRows; i++) {
+            List<Integer> inPascal = new ArrayList<>();
             for (int j = 0; j<=i; j++) {
-                if(j == 0 || j == i) {
-                    li.add(1);
-                    continue;
+                if (j == 0 || j == i){
+                    inPascal.add(1);
+                } else {
+                    List<Integer> temp = pascal.get(i-1);
+                    inPascal.add(temp.get(j-1) + temp.get(j));
                 }
-                li.add(ans.get(i-1).get(j-1) + ans.get(i-1).get(j));
             }
-            ans.add(li);
+            pascal.add(inPascal);
         }
-        return ans;
-    }
+        return pascal;
+    
+        
+    }                                                                  
 }
