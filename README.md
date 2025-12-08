@@ -83,6 +83,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [1071-greatest-common-divisor-of-strings](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1642-water-bottles](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1642-water-bottles) |
+| [1925-count-square-sum-triples](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1925-count-square-sum-triples) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3336-water-bottles-ii](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/3336-water-bottles-ii) |
 | [3830-find-closest-person](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/3830-find-closest-person) |
@@ -108,6 +109,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 ## Enumeration
 |  |
 | ------- |
+| [1925-count-square-sum-triples](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1925-count-square-sum-triples) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Bit Manipulation
