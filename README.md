@@ -129,6 +129,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 ## Bit Manipulation
 |  |
 | ------- |
+| [0868-binary-gap](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0868-binary-gap) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 ## Brainteaser
