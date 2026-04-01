@@ -7,8 +7,10 @@ class Solution {
             set1.add(nums1[i]);
         }
         for(int i = 0; i<m; i++){
-            if(set1.contains(nums2[i])) ans.add(nums2[i]);
-            set1.remove(nums2[i]);
+            if(set1.contains(nums2[i])) {
+                ans.add(nums2[i]);
+                set1.remove(nums2[i]);
+            }
         }
         return ans.stream().mapToInt(Integer::intValue).toArray();
     }
