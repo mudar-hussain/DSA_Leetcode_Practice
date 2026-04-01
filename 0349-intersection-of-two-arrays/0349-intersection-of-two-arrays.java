@@ -1,15 +1,15 @@
 class Solution {
     public int[] intersection(int[] nums1, int[] nums2) {
-        Set<Integer> set1 = new HashSet<>();
+        int[] exist = new int[1001];
         List<Integer> ans = new ArrayList<>();
         int n = nums1.length, m = nums2.length;
-        for(int i = 0; i<n; i++){
-            set1.add(nums1[i]);
+        for(int i = 0; i<n; i++) {
+            exist[nums1[i]] = 1;
         }
         for(int i = 0; i<m; i++){
-            if(set1.contains(nums2[i])) {
+            if(exist[nums2[i]]==1) {
                 ans.add(nums2[i]);
-                set1.remove(nums2[i]);
+                exist[nums2[i]]=0;
             }
         }
         return ans.stream().mapToInt(Integer::intValue).toArray();
