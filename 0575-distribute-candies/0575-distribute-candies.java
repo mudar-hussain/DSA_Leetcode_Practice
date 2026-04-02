@@ -4,6 +4,7 @@ class Solution {
         for(int i = 0; i<candyType.length; i++){
             set.add(candyType[i]);
         }
+        
         return Math.min(set.size(), candyType.length/2);
     }
 }
