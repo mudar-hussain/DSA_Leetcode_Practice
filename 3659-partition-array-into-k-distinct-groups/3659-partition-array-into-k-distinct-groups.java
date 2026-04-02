@@ -6,7 +6,6 @@ class Solution {
         for(int i = 0; i<n; i++){
             freq[nums[i]]++;
             if(freq[nums[i]] > n/k) return false;
-            // if(freq[nums[i]])
         }
 
 
