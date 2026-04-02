@@ -1,22 +1,18 @@
 class Solution {
     int m, n;
     Integer[][][] dp;
-       static {
-            Runtime.getRuntime().addShutdownHook(new Thread(() -> {
-                try (java.io.FileWriter fw = new java.io.FileWriter("display_runtime.txt")) {
-                    fw.write("0");
-                } catch (Exception e) {}
-            }));
-       }
     public int maximumAmount(int[][] coins) {
-        //Approach 1 recursion
+        //Approach 1. Pure Recursion (Brute Force)
         // return calcAmountRecursion(coins, 0, 0, 2);
 
-        //Approach 2 dp
+        //Approach 2. Memoization (Top-Down DP)
         m = coins.length;
         n = coins[0].length;
         dp = new Integer[m][n][3];
         return calcAmountDp(coins, 0, 0, 2);
+
+        //Approach 3. Tabulation (Bottom-Up DP)
+
 
     }
     private int calcAmountDp(int[][] coins, int i, int j, int ability){
