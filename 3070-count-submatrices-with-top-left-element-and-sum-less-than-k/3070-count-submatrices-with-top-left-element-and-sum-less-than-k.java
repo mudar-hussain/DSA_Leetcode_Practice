@@ -9,6 +9,7 @@ class Solution {
                 int dia = i>0 && j>0? grid[i-1][j-1]:0;
                 grid[i][j] = grid[i][j] + top + left-dia;
                 if(grid[i][j] <= k) count++;
+                else break;
             }
         }
         
