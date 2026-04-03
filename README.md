@@ -48,6 +48,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2845-count-of-interesting-subarrays](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2845-count-of-interesting-subarrays) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3453-separate-squares-i](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/3453-separate-squares-i) |
@@ -207,6 +208,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [0085-maximal-rectangle](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0085-maximal-rectangle) |
 | [0407-trapping-rain-water-ii](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0407-trapping-rain-water-ii) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Binary Search
 |  |
@@ -222,6 +224,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [0303-range-sum-query-immutable](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0724-find-pivot-index) |
 | [2845-count-of-interesting-subarrays](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2845-count-of-interesting-subarrays) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Counting
 |  |
