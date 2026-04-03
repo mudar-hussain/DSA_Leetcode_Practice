@@ -12,11 +12,6 @@ class Solution {
                 else break;
             }
         }
-        
-        for(int i = 0; i<m; i++){
-            System.out.println(Arrays.toString(grid[i]));
-
-        }
         return count;
 
         
