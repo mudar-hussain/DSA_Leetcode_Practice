@@ -34,6 +34,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [0217-contains-duplicate](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0304-range-sum-query-2d-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0407-trapping-rain-water-ii](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0407-trapping-rain-water-ii) |
 | [0575-distribute-candies](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0575-distribute-candies) |
@@ -181,6 +182,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0304-range-sum-query-2d-immutable) |
 | [3678-design-task-manager](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/3678-design-task-manager) |
 ## Ordered Set
 |  |
@@ -207,6 +209,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [0059-spiral-matrix-ii](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0085-maximal-rectangle) |
+| [0304-range-sum-query-2d-immutable](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0304-range-sum-query-2d-immutable) |
 | [0407-trapping-rain-water-ii](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0407-trapping-rain-water-ii) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -224,6 +227,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0304-range-sum-query-2d-immutable) |
 | [0724-find-pivot-index](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0724-find-pivot-index) |
 | [2845-count-of-interesting-subarrays](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2845-count-of-interesting-subarrays) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
