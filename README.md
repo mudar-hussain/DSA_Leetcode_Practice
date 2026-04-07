@@ -37,6 +37,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [0304-range-sum-query-2d-immutable](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0304-range-sum-query-2d-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0407-trapping-rain-water-ii](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0407-trapping-rain-water-ii) |
+| [0554-brick-wall](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0554-brick-wall) |
 | [0575-distribute-candies](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0575-distribute-candies) |
 | [0724-find-pivot-index](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0724-find-pivot-index) |
 | [0759-set-intersection-size-at-least-two](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0759-set-intersection-size-at-least-two) |
@@ -110,6 +111,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [0217-contains-duplicate](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0387-first-unique-character-in-a-string) |
+| [0554-brick-wall](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0554-brick-wall) |
 | [0575-distribute-candies](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0575-distribute-candies) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0929-unique-email-addresses](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0929-unique-email-addresses) |
