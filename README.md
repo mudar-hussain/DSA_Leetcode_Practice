@@ -51,6 +51,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [2055-plates-between-candles](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2055-plates-between-candles) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [2615-sum-of-distances](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2615-sum-of-distances) |
 | [2845-count-of-interesting-subarrays](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2845-count-of-interesting-subarrays) |
 | [2906-construct-product-matrix](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2906-construct-product-matrix) |
 | [3026-maximum-good-subarray-sum](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/3026-maximum-good-subarray-sum) |
@@ -120,6 +121,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [1064-smallest-integer-divisible-by-k](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1207-unique-number-of-occurrences](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1207-unique-number-of-occurrences) |
+| [2615-sum-of-distances](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2615-sum-of-distances) |
 | [2845-count-of-interesting-subarrays](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2845-count-of-interesting-subarrays) |
 | [3026-maximum-good-subarray-sum](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/3026-maximum-good-subarray-sum) |
 | [3659-partition-array-into-k-distinct-groups](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/3659-partition-array-into-k-distinct-groups) |
@@ -244,6 +246,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [0304-range-sum-query-2d-immutable](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0304-range-sum-query-2d-immutable) |
 | [0724-find-pivot-index](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0724-find-pivot-index) |
 | [2055-plates-between-candles](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2055-plates-between-candles) |
+| [2615-sum-of-distances](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2615-sum-of-distances) |
 | [2845-count-of-interesting-subarrays](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2845-count-of-interesting-subarrays) |
 | [2906-construct-product-matrix](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2906-construct-product-matrix) |
 | [3026-maximum-good-subarray-sum](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/3026-maximum-good-subarray-sum) |
