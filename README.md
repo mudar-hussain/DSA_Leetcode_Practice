@@ -59,6 +59,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3453-separate-squares-i](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/3453-separate-squares-i) |
+| [3584-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/3584-maximum-product-of-first-and-last-elements-of-a-subsequence) |
 | [3659-partition-array-into-k-distinct-groups](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/3659-partition-array-into-k-distinct-groups) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Divide and Conquer
@@ -90,6 +91,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [1768-merge-strings-alternately](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1768-merge-strings-alternately) |
 | [1894-merge-strings-alternately](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1894-merge-strings-alternately) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [3584-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/3584-maximum-product-of-first-and-last-elements-of-a-subsequence) |
 ## Sorting
 |  |
 | ------- |
