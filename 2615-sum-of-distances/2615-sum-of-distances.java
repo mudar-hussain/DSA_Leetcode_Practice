@@ -1,42 +1,34 @@
 class Solution {
     public long[] distance(int[] nums) {
-        int n = nums.length;
-        long[] prefixSum = new long[n];
-        int[] prefixCount = new int[n];
-        long[] suffixSum = new long[n];
-        int[] suffixCount = new int[n];
-        Map<Integer, Long> sum = new HashMap<>();
-        Map<Integer, Integer> count = new HashMap<>();
-        long[] res = new long[n];
+        int n=nums.length;
+        long res[]= new long[n];
 
-        for(int i = 0; i<n; i++){
-            long newSum = sum.getOrDefault(nums[i], 0L);
-            int newCount = count.getOrDefault(nums[i], 0);
+        Map<Integer, List<Integer>> map= new HashMap<>();
 
-            prefixSum[i] = newSum;
-            prefixCount[i] = newCount;
-
-            sum.put(nums[i], newSum+(long)i);
-            count.put(nums[i], newCount+1);
+        // step-1
+        for(int i=0; i<n; i++){
+            map.computeIfAbsent(nums[i], k->new ArrayList<>()).add(i);
         }
 
-        sum.clear();
-        count.clear();
+        // step-2
+        for(List<Integer> list : map.values()){
+            int m=list.size();
+            long[] prefix=new long[m];
+            prefix[0]= list.get(0);
 
-        for(int i = n-1; i>=0; i--){
-            long newSum = sum.getOrDefault(nums[i], 0L);
-            int newCount = count.getOrDefault(nums[i], 0);
+            for(int i=1; i<m; i++){
+                prefix[i]=prefix[i-1]+list.get(i);
+            }
 
-            suffixSum[i] = newSum;
-            suffixCount[i] = newCount;
+            for(int i=0; i<m; i++){
+                int idx=list.get(i);
 
-            sum.put(nums[i], newSum+(long)i);
-            count.put(nums[i], newCount+1);
-        }
-        for(int i = 0; i<n; i++) {
-            res[i] = (long)i*prefixCount[i]-prefixSum[i] + suffixSum[i]-(long)i*suffixCount[i];
+                long left=(long)i*idx-(i>0 ? prefix[i-1] : 0);
+                long right=(prefix[m-1]-prefix[i])-(long)(m-i-1)*idx;
+
+                res[idx]=left+right;
+            }
         }
         return res;
-        
     }
 }
