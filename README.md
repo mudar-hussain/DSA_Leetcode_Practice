@@ -30,6 +30,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [0118-pascals-triangle](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0135-candy](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0135-candy) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0238-product-of-array-except-self) |
@@ -151,6 +152,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0135-candy) |
 | [0759-set-intersection-size-at-least-two](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0759-set-intersection-size-at-least-two) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [1917-maximum-average-pass-ratio](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1917-maximum-average-pass-ratio) |
