@@ -61,6 +61,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3355-zero-array-transformation-i](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/3355-zero-array-transformation-i) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3453-separate-squares-i](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/3453-separate-squares-i) |
 | [3584-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/3584-maximum-product-of-first-and-last-elements-of-a-subsequence) |
@@ -260,6 +261,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [3026-maximum-good-subarray-sum](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/3026-maximum-good-subarray-sum) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3355-zero-array-transformation-i](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/3355-zero-array-transformation-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Counting
 |  |
