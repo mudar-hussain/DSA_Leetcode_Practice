@@ -51,6 +51,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [0929-unique-email-addresses](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0929-unique-email-addresses) |
 | [0930-binary-subarrays-with-sum](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1074-number-of-submatrices-that-sum-to-target](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1094-car-pooling](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1094-car-pooling) |
 | [1207-unique-number-of-occurrences](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1207-unique-number-of-occurrences) |
 | [1266-minimum-time-visiting-all-points](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1266-minimum-time-visiting-all-points) |
@@ -142,6 +143,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [0930-binary-subarrays-with-sum](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1064-smallest-integer-divisible-by-k) |
+| [1074-number-of-submatrices-that-sum-to-target](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1207-unique-number-of-occurrences](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1207-unique-number-of-occurrences) |
 | [1590-make-sum-divisible-by-p](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1590-make-sum-divisible-by-p) |
@@ -254,6 +256,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [0085-maximal-rectangle](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0085-maximal-rectangle) |
 | [0304-range-sum-query-2d-immutable](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0304-range-sum-query-2d-immutable) |
 | [0407-trapping-rain-water-ii](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0407-trapping-rain-water-ii) |
+| [1074-number-of-submatrices-that-sum-to-target](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2536-increment-submatrices-by-one](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2536-increment-submatrices-by-one) |
 | [2906-construct-product-matrix](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2906-construct-product-matrix) |
@@ -280,6 +283,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [0724-find-pivot-index](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1074-number-of-submatrices-that-sum-to-target](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1094-car-pooling](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1094-car-pooling) |
 | [1590-make-sum-divisible-by-p](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1590-make-sum-divisible-by-p) |
 | [2055-plates-between-candles](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2055-plates-between-candles) |
