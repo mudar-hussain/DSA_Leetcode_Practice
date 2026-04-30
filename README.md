@@ -31,6 +31,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [0119-pascals-triangle-ii](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0135-candy) |
+| [0152-maximum-product-subarray](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0228-summary-ranges) |
@@ -88,6 +89,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [0118-pascals-triangle](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0152-maximum-product-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0918-maximum-sum-circular-subarray) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
