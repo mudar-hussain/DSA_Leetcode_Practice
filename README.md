@@ -46,6 +46,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [0575-distribute-candies](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0575-distribute-candies) |
 | [0724-find-pivot-index](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0724-find-pivot-index) |
 | [0759-set-intersection-size-at-least-two](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0759-set-intersection-size-at-least-two) |
+| [0918-maximum-sum-circular-subarray](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0918-maximum-sum-circular-subarray) |
 | [0929-unique-email-addresses](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0929-unique-email-addresses) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1094-car-pooling](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1094-car-pooling) |
@@ -78,6 +79,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0053-maximum-subarray) |
+| [0918-maximum-sum-circular-subarray](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0918-maximum-sum-circular-subarray) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -86,6 +88,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [0118-pascals-triangle](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0918-maximum-sum-circular-subarray](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0918-maximum-sum-circular-subarray) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
@@ -320,4 +323,9 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0387-first-unique-character-in-a-string) |
+| [0918-maximum-sum-circular-subarray](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0918-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
