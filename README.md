@@ -129,6 +129,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0349-intersection-of-two-arrays) |
@@ -162,6 +163,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | ------- |
 | [0002-add-two-numbers](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0013-roman-to-integer) |
 | [0523-continuous-subarray-sum](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0523-continuous-subarray-sum) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -214,6 +216,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0125-valid-palindrome) |
 | [0387-first-unique-character-in-a-string](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0929-unique-email-addresses](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0929-unique-email-addresses) |
