@@ -217,6 +217,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0013-roman-to-integer) |
+| [0058-length-of-last-word](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0125-valid-palindrome) |
 | [0387-first-unique-character-in-a-string](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0929-unique-email-addresses](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0929-unique-email-addresses) |
