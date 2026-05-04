@@ -36,6 +36,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [0217-contains-duplicate](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0304-range-sum-query-2d-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0349-intersection-of-two-arrays) |
@@ -107,6 +108,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [0088-merge-sorted-array](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1768-merge-strings-alternately) |
