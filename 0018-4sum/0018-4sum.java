@@ -5,8 +5,16 @@ class Solution {
         List<List<Integer>> res = new ArrayList<>();
         for(int j = 0; j<n-3; j++) {
             if(j>0 && nums[j]==nums[j-1]) continue;
+
+            // pruning
+            if((long)nums[j] + nums[j+1] + nums[j+2] + nums[j+3] > target) break;
+            if((long)nums[j] + nums[n-1] + nums[n-2] + nums[n-3] < target) continue;
             for(int i = j+1; i<n-2; i++){
                 if(i>j+1 && nums[i]==nums[i-1]) continue;
+
+                // pruning
+                if((long)nums[j] + nums[i] + nums[i+1] + nums[i+2] > target) break;
+                if((long)nums[j] + nums[i] + nums[n-1] + nums[n-2] < target) continue;
                 int left = i+1;
                 int right = n-1;
                 while(left<right) {
