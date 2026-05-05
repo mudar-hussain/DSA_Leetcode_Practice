@@ -15,6 +15,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -108,6 +109,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -202,6 +204,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0135-candy) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0759-set-intersection-size-at-least-two](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0759-set-intersection-size-at-least-two) |
