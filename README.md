@@ -39,6 +39,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [0217-contains-duplicate](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0238-product-of-array-except-self) |
+| [0240-search-a-2d-matrix-ii](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0304-range-sum-query-2d-immutable) |
@@ -89,6 +90,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0053-maximum-subarray) |
+| [0240-search-a-2d-matrix-ii](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0918-maximum-sum-circular-subarray](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0918-maximum-sum-circular-subarray) |
 ## Dynamic Programming
 |  |
@@ -279,6 +281,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [0059-spiral-matrix-ii](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0085-maximal-rectangle) |
+| [0240-search-a-2d-matrix-ii](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0304-range-sum-query-2d-immutable) |
 | [0407-trapping-rain-water-ii](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0407-trapping-rain-water-ii) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1074-number-of-submatrices-that-sum-to-target) |
@@ -292,6 +295,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0240-search-a-2d-matrix-ii](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0658-find-k-closest-elements](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0658-find-k-closest-elements) |
 | [2055-plates-between-candles](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2055-plates-between-candles) |
