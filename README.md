@@ -78,6 +78,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [2615-sum-of-distances](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2615-sum-of-distances) |
 | [2845-count-of-interesting-subarrays](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2845-count-of-interesting-subarrays) |
 | [2906-construct-product-matrix](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2906-construct-product-matrix) |
+| [2972-count-the-number-of-incremovable-subarrays-ii](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2972-count-the-number-of-incremovable-subarrays-ii) |
 | [3026-maximum-good-subarray-sum](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/3026-maximum-good-subarray-sum) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
@@ -132,6 +133,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [1768-merge-strings-alternately](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1768-merge-strings-alternately) |
 | [1894-merge-strings-alternately](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1894-merge-strings-alternately) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2972-count-the-number-of-incremovable-subarrays-ii](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2972-count-the-number-of-incremovable-subarrays-ii) |
 | [3584-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/3584-maximum-product-of-first-and-last-elements-of-a-subsequence) |
 ## Sorting
 |  |
@@ -310,6 +312,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [0658-find-k-closest-elements](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0658-find-k-closest-elements) |
 | [2055-plates-between-candles](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2055-plates-between-candles) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2972-count-the-number-of-incremovable-subarrays-ii](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2972-count-the-number-of-incremovable-subarrays-ii) |
 | [3453-separate-squares-i](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/3453-separate-squares-i) |
 ## Prefix Sum
 |  |
