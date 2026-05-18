@@ -3,7 +3,7 @@ class Solution {
         int low = 0, high = arr.length-1;
         while(low<=high) {
             int mid = low + (high-low)/2;
-            if(Math.abs(arr[mid]-k) <= d) return false;
+            if(Math.abs(arr[low]-k) <= d || Math.abs(arr[mid]-k) <= d || Math.abs(arr[high]-k) <= d) return false;
             else if (arr[mid]-k > d) high = mid-1;
             else low = mid+1;
         }
