@@ -21,6 +21,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0056-merge-intervals) |
@@ -99,6 +100,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0118-pascals-triangle) |
@@ -118,6 +120,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0088-merge-sorted-array) |
@@ -364,6 +367,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0085-maximal-rectangle) |
 | [0321-create-maximum-number](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0321-create-maximum-number) |
@@ -371,6 +375,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0085-maximal-rectangle) |
 | [0321-create-maximum-number](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0321-create-maximum-number) |
