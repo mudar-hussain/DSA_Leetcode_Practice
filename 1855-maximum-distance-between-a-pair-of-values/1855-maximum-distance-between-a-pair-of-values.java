@@ -1,7 +1,7 @@
 class Solution {
     private int binary(int[] nums, int i, int target) {
         int low = i, high = nums.length-1;
-        int idx = i;
+        int idx = i-1;
         while(low<=high) {
             int mid = low + (high-low)/2;
             if(nums[mid] >= target) {
