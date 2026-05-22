@@ -25,6 +25,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [0033-search-in-rotated-sorted-array](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0056-merge-intervals) |
@@ -169,6 +170,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | ------- |
 | [0015-3sum](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0088-merge-sorted-array) |
@@ -196,6 +198,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | ------- |
 | [0001-two-sum](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0349-intersection-of-two-arrays) |
@@ -299,6 +302,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0125-valid-palindrome) |
 | [0387-first-unique-character-in-a-string](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0387-first-unique-character-in-a-string) |
