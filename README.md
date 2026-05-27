@@ -58,6 +58,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [0321-create-maximum-number](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0321-create-maximum-number) |
 | [0349-intersection-of-two-arrays](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0407-trapping-rain-water-ii](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0407-trapping-rain-water-ii) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0523-continuous-subarray-sum](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0540-single-element-in-a-sorted-array) |
@@ -178,6 +179,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [0215-kth-largest-element-in-an-array](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0349-intersection-of-two-arrays) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0658-find-k-closest-elements) |
@@ -260,6 +262,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [0011-container-with-most-water](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0135-candy) |
 | [0321-create-maximum-number](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0321-create-maximum-number) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0611-valid-triangle-number) |
 | [0759-set-intersection-size-at-least-two](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0759-set-intersection-size-at-least-two) |
