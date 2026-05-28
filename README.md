@@ -113,6 +113,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3453-separate-squares-i](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/3453-separate-squares-i) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3584-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/3584-maximum-product-of-first-and-last-elements-of-a-subsequence) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3659-partition-array-into-k-distinct-groups](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/3659-partition-array-into-k-distinct-groups) |
@@ -204,6 +205,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3169-count-days-without-meetings](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/3169-count-days-without-meetings) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 ## Hash Table
 |  |
@@ -236,6 +238,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [2845-count-of-interesting-subarrays](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2845-count-of-interesting-subarrays) |
 | [3026-maximum-good-subarray-sum](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/3026-maximum-good-subarray-sum) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3659-partition-array-into-k-distinct-groups](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/3659-partition-array-into-k-distinct-groups) |
 | [3678-design-task-manager](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/3678-design-task-manager) |
 ## Linked List
