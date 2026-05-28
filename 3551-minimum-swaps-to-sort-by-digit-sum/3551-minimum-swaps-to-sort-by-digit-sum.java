@@ -1,39 +1,51 @@
+class Pair{
+    int dsum,val,idx;
+    public Pair(int d,int a,int b)
+    {
+        this.dsum = d;
+        this.val = a;
+        this.idx = b;
+    }
+}
 class Solution {
-    private static int digitSum(int a) {
-        int sum = 0;
-        while(a>0){
-            sum += a%10;
-            a = a/10;
+    public int digitSum(int num)
+    {
+        int s = 0;
+        while(num != 0)
+        {
+            s += num%10;
+            num = num/10;
         }
-        return sum;
+        return s;
     }
     public int minSwaps(int[] nums) {
-        Map<Integer, Integer> map = new HashMap<>();
-        for(int i = 0; i<nums.length; i++){
-            map.put(nums[i], i);
+        int n = nums.length;
+        List<Pair> list = new ArrayList<>();
+        for(int i=0;i<n;i++)
+        {
+            list.add(new Pair(digitSum(nums[i]),nums[i],i));
         }
-        Integer[] arr = new Integer[nums.length];
-        for(int i = 0; i<nums.length; i++) {
-            arr[i] = nums[i];
-        }
-        Arrays.sort(arr, (a,b) -> {
-            int sumA = digitSum(a);
-            int sumB = digitSum(b);
-            return sumA==sumB ? a-b : sumA-sumB;
+        Collections.sort(list,(a,b)->{
+            if(a.dsum == b.dsum) return Integer.compare(a.val,b.val);
+            return Integer.compare(a.dsum,b.dsum);
         });
-        int count = 0;
-        int i = 0;
-        while(i<arr.length) {
-            int j = map.get(arr[i]);
-            if(i!=j) {
-                count++;
-                int temp = arr[i];
-                arr[i] = arr[j];
-                arr[j] = temp;
-            } else {
-                i++;
+
+        int cnt = 0;
+        for(int i=0;i<n;i++)
+        {
+            if(list.get(i).idx != i)
+            {
+                cnt++;
+                swap(list,i,list.get(i).idx);
+                i--;
             }
         }
-        return count;
+        return cnt;
+    }
+    private void swap(List<Pair> list,int a,int b)
+    {
+        Pair temp = list.get(a);
+        list.set(a,list.get(b));
+        list.set(b,temp);
     }
 }
