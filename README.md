@@ -69,6 +69,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [0611-valid-triangle-number](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0611-valid-triangle-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0646-maximum-length-of-pair-chain) |
 | [0658-find-k-closest-elements](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0658-find-k-closest-elements) |
+| [0692-top-k-frequent-words](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0724-find-pivot-index) |
 | [0759-set-intersection-size-at-least-two](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0759-set-intersection-size-at-least-two) |
@@ -188,6 +189,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [0611-valid-triangle-number](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0611-valid-triangle-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0646-maximum-length-of-pair-chain) |
 | [0658-find-k-closest-elements](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0658-find-k-closest-elements) |
+| [0692-top-k-frequent-words](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0692-top-k-frequent-words) |
 | [0759-set-intersection-size-at-least-two](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0759-set-intersection-size-at-least-two) |
 | [0853-car-fleet](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0853-car-fleet) |
 | [0977-squares-of-a-sorted-array](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0977-squares-of-a-sorted-array) |
@@ -219,6 +221,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [0554-brick-wall](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0575-distribute-candies) |
+| [0692-top-k-frequent-words](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0692-top-k-frequent-words) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0911-online-election](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0911-online-election) |
 | [0929-unique-email-addresses](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0929-unique-email-addresses) |
@@ -287,6 +290,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [0407-trapping-rain-water-ii](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0407-trapping-rain-water-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0658-find-k-closest-elements](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0658-find-k-closest-elements) |
+| [0692-top-k-frequent-words](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0692-top-k-frequent-words) |
 | [1094-car-pooling](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1094-car-pooling) |
 | [1917-maximum-average-pass-ratio](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1917-maximum-average-pass-ratio) |
 | [3678-design-task-manager](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/3678-design-task-manager) |
@@ -321,6 +325,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [0125-valid-palindrome](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0125-valid-palindrome) |
 | [0387-first-unique-character-in-a-string](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0692-top-k-frequent-words) |
 | [0929-unique-email-addresses](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0929-unique-email-addresses) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1768-merge-strings-alternately) |
@@ -431,6 +436,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0692-top-k-frequent-words) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [3659-partition-array-into-k-distinct-groups](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/3659-partition-array-into-k-distinct-groups) |
 ## Tree
@@ -492,4 +498,9 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0692-top-k-frequent-words) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
