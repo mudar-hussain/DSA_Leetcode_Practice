@@ -1,25 +1,25 @@
 class Solution {
     public int[][] merge(int[][] intervals) {
-        if (intervals.length == 1) return intervals;
-        Arrays.sort(intervals, (a,b) -> Integer.compare(a[0], b[0]));
-        int l = 0;
-        int r = 1;
-        while(r<intervals.length){
-            if(intervals[l][1]>=intervals[r][0]){
-                intervals[l][1] = Math.max(intervals[r][1], intervals[l][1]);
-            } else {
-                l++;
-                intervals[l][0] = intervals[r][0];
-                intervals[l][1] = intervals[r][1];
+        Arrays.sort(intervals, (a,b) -> Integer.compare(a[0],b[0]));
+        int start = intervals[0][0];
+        int end = intervals[0][1];
+        List<List<Integer>> list = new ArrayList<>();
+        for(int i = 1; i<intervals.length; i++){
+            if(end>=intervals[i][0]) end = Math.max(end, intervals[i][1]);
+            else {
+                list.add(Arrays.asList(start, end));
+                start = intervals[i][0];
+                end = intervals[i][1];
             }
-            r++;
         }
-        l++;
-        int[][] ans = new int[l][2];
-        for(int i = 0; i<l; i++) {
-            ans[i][0] = intervals[i][0];
-            ans[i][1] = intervals[i][1];
+        list.add(Arrays.asList(start, end));
+        int[][] result = new int[list.size()][2];
+        int k = 0;
+        for(List<Integer> l: list){
+            result[k][0] = l.get(0);
+            result[k][1] = l.get(1);
+            k++;
         }
-        return ans;
+        return result;
     }
 }
