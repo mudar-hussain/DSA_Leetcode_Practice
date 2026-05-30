@@ -87,6 +87,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [1094-car-pooling](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1094-car-pooling) |
 | [1207-unique-number-of-occurrences](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1207-unique-number-of-occurrences) |
 | [1266-minimum-time-visiting-all-points](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1266-minimum-time-visiting-all-points) |
+| [1288-remove-covered-intervals](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1288-remove-covered-intervals) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
@@ -200,6 +201,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [0853-car-fleet](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0853-car-fleet) |
 | [0977-squares-of-a-sorted-array](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1094-car-pooling](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1094-car-pooling) |
+| [1288-remove-covered-intervals](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1288-remove-covered-intervals) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2089-find-target-indices-after-sorting-array) |
