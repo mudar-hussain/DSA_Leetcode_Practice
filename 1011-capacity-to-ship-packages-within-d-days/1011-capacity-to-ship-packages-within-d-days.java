@@ -23,6 +23,6 @@ class Solution {
             if(isValid(weights, mid, days)) high = mid;
             else low = mid + 1;
         }
-        return (int) low;
+        return (int) high;
     }
 }
