@@ -46,6 +46,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0228-summary-ranges) |
@@ -413,6 +414,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0300-longest-increasing-subsequence) |
@@ -437,6 +439,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0304-range-sum-query-2d-immutable) |
@@ -513,6 +516,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0658-find-k-closest-elements](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0658-find-k-closest-elements) |
 | [0930-binary-subarrays-with-sum](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0930-binary-subarrays-with-sum) |
 ## Game Theory
