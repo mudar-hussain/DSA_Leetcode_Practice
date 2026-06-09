@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/minimum-time-to-complete-trips/">2187. Minimum Time to Complete Trips</a></h2><h3>Medium</h3><hr><div><p>You are given an array <code>time</code> where <code>time[i]</code> denotes the time taken by the <code>i<sup>th</sup></code> bus to complete <strong>one trip</strong>.</p>
+<h2><a href="https://leetcode.com/problems/minimum-time-to-complete-trips">2294. Minimum Time to Complete Trips</a></h2><h3>Medium</h3><hr><p>You are given an array <code>time</code> where <code>time[i]</code> denotes the time taken by the <code>i<sup>th</sup></code> bus to complete <strong>one trip</strong>.</p>
 
 <p>Each bus can make multiple trips <strong>successively</strong>; that is, the next trip can start <strong>immediately after</strong> completing the current trip. Also, each bus operates <strong>independently</strong>; that is, the trips of one bus do not influence the trips of any other bus.</p>
 
@@ -7,7 +7,8 @@
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
-<pre><strong>Input:</strong> time = [1,2,3], totalTrips = 5
+<pre>
+<strong>Input:</strong> time = [1,2,3], totalTrips = 5
 <strong>Output:</strong> 3
 <strong>Explanation:</strong>
 - At time t = 1, the number of trips completed by each bus are [1,0,0]. 
@@ -21,7 +22,8 @@ So the minimum time needed for all buses to complete at least 5 trips is 3.
 
 <p><strong class="example">Example 2:</strong></p>
 
-<pre><strong>Input:</strong> time = [2], totalTrips = 1
+<pre>
+<strong>Input:</strong> time = [2], totalTrips = 1
 <strong>Output:</strong> 2
 <strong>Explanation:</strong>
 There is only one bus, and it will complete its first trip at t = 2.
@@ -35,4 +37,3 @@ So the minimum time needed to complete 1 trip is 2.
 	<li><code>1 &lt;= time.length &lt;= 10<sup>5</sup></code></li>
 	<li><code>1 &lt;= time[i], totalTrips &lt;= 10<sup>7</sup></code></li>
 </ul>
-</div>
