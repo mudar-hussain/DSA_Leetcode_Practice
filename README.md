@@ -103,6 +103,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1917-maximum-average-pass-ratio](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1917-maximum-average-pass-ratio) |
 | [2055-plates-between-candles](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2055-plates-between-candles) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2070-most-beautiful-item-for-each-query](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2070-most-beautiful-item-for-each-query) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2126-destroying-asteroids](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2126-destroying-asteroids) |
@@ -308,6 +309,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [0759-set-intersection-size-at-least-two](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0759-set-intersection-size-at-least-two) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [1917-maximum-average-pass-ratio](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1917-maximum-average-pass-ratio) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2126-destroying-asteroids](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2126-destroying-asteroids) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2966-divide-array-into-arrays-with-max-difference) |
@@ -441,6 +443,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2055-plates-between-candles](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2055-plates-between-candles) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2070-most-beautiful-item-for-each-query](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2070-most-beautiful-item-for-each-query) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2187-minimum-time-to-complete-trips](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2187-minimum-time-to-complete-trips) |
