@@ -2,7 +2,7 @@ class Solution {
     private boolean isPossible(int[] candies, long k, int divisor) {
         long childrens = 0;
         for(int c: candies) {
-            childrens += (long)c/divisor;
+            childrens += c/divisor;
             if(childrens>=k) return true;
         }
         return false;
