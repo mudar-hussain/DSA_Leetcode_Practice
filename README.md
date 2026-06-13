@@ -369,6 +369,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0125-valid-palindrome) |
@@ -528,6 +529,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0085-maximal-rectangle) |
