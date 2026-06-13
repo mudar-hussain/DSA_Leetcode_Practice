@@ -379,6 +379,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [0929-unique-email-addresses](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0929-unique-email-addresses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1544-make-the-string-great](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1544-make-the-string-great) |
 | [1768-merge-strings-alternately](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1768-merge-strings-alternately) |
 | [1894-merge-strings-alternately](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1894-merge-strings-alternately) |
 | [2055-plates-between-candles](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2055-plates-between-candles) |
@@ -538,6 +539,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0853-car-fleet](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0853-car-fleet) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1544-make-the-string-great](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1544-make-the-string-great) |
 ## Monotonic Stack
 |  |
 | ------- |
