@@ -1,29 +1,15 @@
 class Solution {
-    private boolean isPossible(int[] nums, int k, int low, int high) {
-        long currOps = 0;
-        for(int i = low; i<=high; i++) {
-            currOps += (long)nums[high]-nums[i];
-            if(currOps > (long)k) return false;
-        }
-        return true;
-    }
     public int maxFrequency(int[] nums, int k) {
         Arrays.sort(nums);
-        int maxFreq = 1;
-        for(int j = nums.length-1; j>=maxFreq; j--) {
-            int i = j-1;
-            int currOps = 0;
-            while(i>=0) {
-                currOps += (nums[j]-nums[i]);
-                if(currOps>k) {
-                    i++;
-                    break;
-                }else {
-                    i--;
-                }
+        int maxFreq = 1, left = 0;
+        long windowSum = 0;
+        for(int right = 0; right<nums.length; right++) {
+            windowSum += nums[right];
+            while((long)nums[right]*(right-left+1) - windowSum > k) {
+                windowSum -= nums[left];
+                left++;
             }
-            i = Math.max(i, 0);
-            maxFreq = Math.max(maxFreq, j-i+1);
+            maxFreq = Math.max(maxFreq, right-left+1);
         }
         return maxFreq;
     }
