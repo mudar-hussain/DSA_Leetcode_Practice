@@ -102,6 +102,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [1590-make-sum-divisible-by-p](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1590-make-sum-divisible-by-p) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1818-minimum-absolute-sum-difference](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1818-minimum-absolute-sum-difference) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1917-maximum-average-pass-ratio](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1917-maximum-average-pass-ratio) |
 | [2055-plates-between-candles](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2055-plates-between-candles) |
@@ -224,6 +225,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1818-minimum-absolute-sum-difference](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1818-minimum-absolute-sum-difference) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2070-most-beautiful-item-for-each-query](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2070-most-beautiful-item-for-each-query) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2126-destroying-asteroids](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2126-destroying-asteroids) |
@@ -315,6 +317,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [0646-maximum-length-of-pair-chain](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0646-maximum-length-of-pair-chain) |
 | [0759-set-intersection-size-at-least-two](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0759-set-intersection-size-at-least-two) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1917-maximum-average-pass-ratio](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1917-maximum-average-pass-ratio) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2126-destroying-asteroids](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2126-destroying-asteroids) |
@@ -451,6 +454,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1818-minimum-absolute-sum-difference](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1818-minimum-absolute-sum-difference) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2055-plates-between-candles](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2055-plates-between-candles) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
@@ -478,6 +482,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1094-car-pooling](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1094-car-pooling) |
 | [1590-make-sum-divisible-by-p](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1590-make-sum-divisible-by-p) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2055-plates-between-candles](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2055-plates-between-candles) |
 | [2536-increment-submatrices-by-one](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2536-increment-submatrices-by-one) |
 | [2615-sum-of-distances](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2615-sum-of-distances) |
@@ -545,6 +550,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [0209-minimum-size-subarray-sum](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0658-find-k-closest-elements](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0658-find-k-closest-elements) |
 | [0930-binary-subarrays-with-sum](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0930-binary-subarrays-with-sum) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Game Theory
 |  |
 | ------- |
