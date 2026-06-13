@@ -116,6 +116,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2402-meeting-rooms-iii](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2402-meeting-rooms-iii) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [2517-maximum-tastiness-of-candy-basket](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2536-increment-submatrices-by-one](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2536-increment-submatrices-by-one) |
 | [2615-sum-of-distances](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2615-sum-of-distances) |
 | [2845-count-of-interesting-subarrays](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2845-count-of-interesting-subarrays) |
@@ -232,6 +233,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2402-meeting-rooms-iii](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2402-meeting-rooms-iii) |
+| [2517-maximum-tastiness-of-candy-basket](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2887-sort-vowels-in-a-string](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2887-sort-vowels-in-a-string) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3169-count-days-without-meetings](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/3169-count-days-without-meetings) |
@@ -322,6 +324,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2126-destroying-asteroids](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2126-destroying-asteroids) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
+| [2517-maximum-tastiness-of-candy-basket](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3458-select-k-disjoint-special-substrings](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/3458-select-k-disjoint-special-substrings) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
@@ -463,6 +466,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [2187-minimum-time-to-complete-trips](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2187-minimum-time-to-complete-trips) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2517-maximum-tastiness-of-candy-basket](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2972-count-the-number-of-incremovable-subarrays-ii](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2972-count-the-number-of-incremovable-subarrays-ii) |
 | [3048-earliest-second-to-mark-indices-i](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/3048-earliest-second-to-mark-indices-i) |
 | [3453-separate-squares-i](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/3453-separate-squares-i) |
