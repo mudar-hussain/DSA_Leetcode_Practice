@@ -1,37 +1,37 @@
 class BrowserHistory {
-    Stack<String> history;
-    Stack<String> forwardHistory;
-
-
+    public class Node {
+        String url;
+        Node next, prev;
+        public Node(String url) {
+            this.url = url;
+            this.next = null;
+            this.prev = null;
+        }
+    }
+    private Node curr;
     public BrowserHistory(String homepage) {
-        history = new Stack<>();
-        forwardHistory = new Stack<>();
-        history.push(homepage);        
+        curr = new Node(homepage);        
     }
     
     public void visit(String url) {
-        history.push(url);
-        forwardHistory.clear();
+        Node next = new Node(url);
+        curr.next = next;
+        next.prev = curr;
+        curr = next;        
     }
     
     public String back(int steps) {
-        if(history.size()==1) return history.peek();
-        while(history.size()>1 && steps>0) {
-            forwardHistory.push(history.pop());
-            steps--;
+        while(curr.prev != null && steps-->0) {
+            curr = curr.prev;
         }
-        return history.peek();
+        return curr.url;
     }
     
     public String forward(int steps) {
-        if(forwardHistory.isEmpty()) return history.peek();
-        String url;
-        while(!forwardHistory.isEmpty() && steps>0) {
-            history.push(forwardHistory.pop());
-            steps--;
+        while(curr.next != null && steps-->0) {
+            curr = curr.next;
         }
-        return history.peek();
-        
+        return curr.url;
     }
 }
 
