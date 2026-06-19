@@ -311,6 +311,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0002-add-two-numbers) |
+| [0394-decode-string](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0394-decode-string) |
 ## Greedy
 |  |
 | ------- |
@@ -378,6 +379,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [0125-valid-palindrome](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0125-valid-palindrome) |
 | [0227-basic-calculator-ii](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0227-basic-calculator-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0387-first-unique-character-in-a-string) |
+| [0394-decode-string](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0394-decode-string) |
 | [0451-sort-characters-by-frequency](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0692-top-k-frequent-words) |
 | [0929-unique-email-addresses](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0929-unique-email-addresses) |
@@ -550,6 +552,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [0155-min-stack](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0155-min-stack) |
 | [0227-basic-calculator-ii](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0227-basic-calculator-ii) |
 | [0321-create-maximum-number](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0321-create-maximum-number) |
+| [0394-decode-string](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0394-decode-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0853-car-fleet](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0853-car-fleet) |
