@@ -10,10 +10,11 @@ class Solution {
                 st.push(s);
             } 
         }
-        String res = "";
-        while(!st.isEmpty()) {
-            res = "/" + st.pop() + res;
+        StringBuilder res = new StringBuilder();
+        for(String s: st) {
+            res.append("/");
+            res.append(s);
         }
-        return res.length()==0? "/" : res;
+        return res.length()==0? "/" : res.toString();
     }
 }
