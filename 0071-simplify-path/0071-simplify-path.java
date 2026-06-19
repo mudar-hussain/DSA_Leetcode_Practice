@@ -1,7 +1,6 @@
 class Solution {
     public String simplifyPath(String path) {
-        List<String> str = new ArrayList<>();
-        str.addAll(Arrays.asList(path.split("/")));
+        String[] str = path.split("/");
         Stack<String> st = new Stack<>();
         for(String s: str) {
             if(s.length()==0 || s.equals(".")) continue;
