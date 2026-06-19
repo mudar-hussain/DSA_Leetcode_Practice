@@ -376,6 +376,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [0020-valid-parentheses](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0058-length-of-last-word) |
+| [0071-simplify-path](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0125-valid-palindrome) |
 | [0227-basic-calculator-ii](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0227-basic-calculator-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0387-first-unique-character-in-a-string) |
@@ -546,6 +547,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | ------- |
 | [0020-valid-parentheses](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0085-maximal-rectangle) |
 | [0144-binary-tree-preorder-traversal](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0144-binary-tree-preorder-traversal) |
