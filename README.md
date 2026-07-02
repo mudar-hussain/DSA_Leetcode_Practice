@@ -387,6 +387,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1544-make-the-string-great](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1544-make-the-string-great) |
 | [1768-merge-strings-alternately](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1768-merge-strings-alternately) |
 | [1894-merge-strings-alternately](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1894-merge-strings-alternately) |
@@ -561,6 +562,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [0853-car-fleet](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0853-car-fleet) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1472-design-browser-history](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1472-design-browser-history) |
 | [1544-make-the-string-great](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1544-make-the-string-great) |
 ## Monotonic Stack
