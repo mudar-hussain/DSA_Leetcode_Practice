@@ -15,7 +15,6 @@ class Solution {
         }
         int res = 0;
         for(int i = 1; i<n-1; i++){
-            System.out.println(Math.min(prefix[i], suffix[i]));
             res += (Math.min(prefix[i], suffix[i]) - height[i]);
         }
         return res;
