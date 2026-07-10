@@ -64,6 +64,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [0436-find-right-interval](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0436-find-right-interval) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0475-heaters](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0475-heaters) |
+| [0496-next-greater-element-i](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0540-single-element-in-a-sorted-array) |
@@ -256,6 +257,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [0349-intersection-of-two-arrays](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0525-contiguous-array) |
 | [0554-brick-wall](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0554-brick-wall) |
@@ -562,6 +564,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [0227-basic-calculator-ii](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0227-basic-calculator-ii) |
 | [0321-create-maximum-number](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0321-create-maximum-number) |
 | [0394-decode-string](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0394-decode-string) |
+| [0496-next-greater-element-i](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0496-next-greater-element-i) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0853-car-fleet](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0853-car-fleet) |
@@ -578,6 +581,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [0084-largest-rectangle-in-histogram](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0085-maximal-rectangle) |
 | [0321-create-maximum-number](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0321-create-maximum-number) |
+| [0496-next-greater-element-i](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0496-next-greater-element-i) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0853-car-fleet](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0853-car-fleet) |
 ## Queue
