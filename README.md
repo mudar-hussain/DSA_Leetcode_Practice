@@ -151,6 +151,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0085-maximal-rectangle) |
@@ -375,6 +376,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | ------- |
 | [0013-roman-to-integer](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0071-simplify-path) |
@@ -550,6 +552,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0084-largest-rectangle-in-histogram) |
