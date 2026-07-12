@@ -13,17 +13,15 @@ class Solution {
             }
         }
         int[] ans = new int[nums.length];
-        int i = less.size()-1+pivotCount;
-        
+        int i = nums.length-1;
+        while(!more.isEmpty()) {
+            ans[i--] = more.pop();
+        }        
         while(pivotCount-->0) {
             ans[i--] = pivot;
         }
         while(!less.isEmpty()) {
             ans[i--] = less.pop();
-        }
-        i = nums.length-1;
-        while(!more.isEmpty()) {
-            ans[i--] = more.pop();
         }
         return ans;
     }
