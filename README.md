@@ -114,6 +114,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [2070-most-beautiful-item-for-each-query](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2070-most-beautiful-item-for-each-query) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2126-destroying-asteroids](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2126-destroying-asteroids) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2187-minimum-time-to-complete-trips](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2187-minimum-time-to-complete-trips) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
@@ -200,6 +201,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [1768-merge-strings-alternately](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1768-merge-strings-alternately) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1894-merge-strings-alternately](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1894-merge-strings-alternately) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2972-count-the-number-of-incremovable-subarrays-ii](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2972-count-the-number-of-incremovable-subarrays-ii) |
 | [3584-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/3584-maximum-product-of-first-and-last-elements-of-a-subsequence) |
@@ -427,6 +429,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [0735-asteroid-collision](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0735-asteroid-collision) |
 | [1094-car-pooling](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1094-car-pooling) |
 | [1642-water-bottles](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1642-water-bottles) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2402-meeting-rooms-iii](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2402-meeting-rooms-iii) |
 | [3336-water-bottles-ii](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/3336-water-bottles-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
