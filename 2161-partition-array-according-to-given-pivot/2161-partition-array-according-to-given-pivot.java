@@ -1,28 +1,20 @@
 class Solution {
     public int[] pivotArray(int[] nums, int pivot) {
-        Stack<Integer> less = new Stack<>();
-        Stack<Integer> more = new Stack<>();
-        int pivotCount = 0;
-        for(int i: nums) {
-            if(i<pivot) {
-                less.push(i);
-            } else if(i>pivot) {
-                more.push(i);
-            } else {
-                pivotCount++;
+        int n = nums.length;
+        int[] res = new int[n];
+        int left = 0, right = n-1;
+        for(int i = 0, j = n-1; i<n; i++, j--) {
+            if(nums[i]<pivot) {
+                res[left++] = nums[i];
+            }
+            if (nums[j]>pivot) {
+                res[right--] = nums[j];
             }
         }
-        int[] ans = new int[nums.length];
-        int i = nums.length-1;
-        while(!more.isEmpty()) {
-            ans[i--] = more.pop();
-        }        
-        while(pivotCount-->0) {
-            ans[i--] = pivot;
+        while(left<=right) {
+            res[left++] = pivot;
         }
-        while(!less.isEmpty()) {
-            ans[i--] = less.pop();
-        }
-        return ans;
+        return res;
+        
     }
 }
