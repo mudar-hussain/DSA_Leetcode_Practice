@@ -148,6 +148,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [3584-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/3584-maximum-product-of-first-and-last-elements-of-a-subsequence) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3659-partition-array-into-k-distinct-groups](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/3659-partition-array-into-k-distinct-groups) |
+| [3676-count-bowl-subarrays](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/3676-count-bowl-subarrays) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Divide and Conquer
 |  |
@@ -601,6 +602,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [2104-sum-of-subarray-ranges](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2104-sum-of-subarray-ranges) |
 | [2866-beautiful-towers-ii](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2866-beautiful-towers-ii) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
+| [3676-count-bowl-subarrays](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/3676-count-bowl-subarrays) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -619,6 +621,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [2104-sum-of-subarray-ranges](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2104-sum-of-subarray-ranges) |
 | [2866-beautiful-towers-ii](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2866-beautiful-towers-ii) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
+| [3676-count-bowl-subarrays](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/3676-count-bowl-subarrays) |
 ## Queue
 |  |
 | ------- |
