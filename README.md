@@ -113,6 +113,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2070-most-beautiful-item-for-each-query](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2070-most-beautiful-item-for-each-query) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2104-sum-of-subarray-ranges](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2104-sum-of-subarray-ranges) |
 | [2126-destroying-asteroids](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2126-destroying-asteroids) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2187-minimum-time-to-complete-trips](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2187-minimum-time-to-complete-trips) |
@@ -588,6 +589,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1472-design-browser-history](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1472-design-browser-history) |
 | [1544-make-the-string-great](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1544-make-the-string-great) |
+| [2104-sum-of-subarray-ranges](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2104-sum-of-subarray-ranges) |
 | [2866-beautiful-towers-ii](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2866-beautiful-towers-ii) |
 ## Monotonic Stack
 |  |
@@ -602,6 +604,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0853-car-fleet](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0853-car-fleet) |
 | [0901-online-stock-span](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0901-online-stock-span) |
+| [2104-sum-of-subarray-ranges](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2104-sum-of-subarray-ranges) |
 | [2866-beautiful-towers-ii](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2866-beautiful-towers-ii) |
 ## Queue
 |  |
