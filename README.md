@@ -136,6 +136,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [3026-maximum-good-subarray-sum](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/3026-maximum-good-subarray-sum) |
 | [3048-earliest-second-to-mark-indices-i](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/3048-earliest-second-to-mark-indices-i) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 | [3169-count-days-without-meetings](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/3169-count-days-without-meetings) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -511,6 +512,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [2560-house-robber-iv](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2560-house-robber-iv) |
 | [2972-count-the-number-of-incremovable-subarrays-ii](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2972-count-the-number-of-incremovable-subarrays-ii) |
 | [3048-earliest-second-to-mark-indices-i](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/3048-earliest-second-to-mark-indices-i) |
+| [3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 | [3453-separate-squares-i](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/3453-separate-squares-i) |
 ## Prefix Sum
 |  |
@@ -601,6 +603,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [1856-maximum-subarray-min-product](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1856-maximum-subarray-min-product) |
 | [2104-sum-of-subarray-ranges](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2104-sum-of-subarray-ranges) |
 | [2866-beautiful-towers-ii](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2866-beautiful-towers-ii) |
+| [3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 | [3676-count-bowl-subarrays](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/3676-count-bowl-subarrays) |
 ## Monotonic Stack
@@ -620,6 +623,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [1856-maximum-subarray-min-product](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1856-maximum-subarray-min-product) |
 | [2104-sum-of-subarray-ranges](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2104-sum-of-subarray-ranges) |
 | [2866-beautiful-towers-ii](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2866-beautiful-towers-ii) |
+| [3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 | [3676-count-bowl-subarrays](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/3676-count-bowl-subarrays) |
 ## Queue
