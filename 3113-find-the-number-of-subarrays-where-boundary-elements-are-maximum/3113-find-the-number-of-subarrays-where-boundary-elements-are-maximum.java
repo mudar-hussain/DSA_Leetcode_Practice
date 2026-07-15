@@ -1,14 +1,21 @@
 class Solution {
-public long numberOfSubarrays(int[] A) {
-        ArrayDeque<int[]> stack = new ArrayDeque<>();
-        long res = 0;
-        for (int a : A) {
-            while (!stack.isEmpty() && stack.peek()[0] < a)
-                stack.pop();
-            if (stack.isEmpty() || stack.peek()[0] != a)
-                stack.push(new int[]{a, 0});
-            res += ++stack.peek()[1];
+    public long numberOfSubarrays(int[] nums) {
+        int n = nums.length;
+        Stack<int[]> st = new Stack<>();
+        long ans = 0;
+        for(int i: nums) {
+            while(!st.isEmpty() && st.peek()[0]<i) {
+                st.pop();
+            }
+            if(!st.isEmpty() && st.peek()[0]==i) {
+                st.peek()[1]++;
+                ans += st.peek()[1];
+            } else {
+                ans++;
+                st.push(new int[]{i, 1});
+            }
         }
-        return res;
+        return ans;
+        
     }
 }
