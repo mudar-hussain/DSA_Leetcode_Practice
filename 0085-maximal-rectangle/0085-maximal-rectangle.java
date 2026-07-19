@@ -1,53 +1,45 @@
 class Solution {
     public int maximalRectangle(char[][] matrix) {
-        int m = matrix.length;
-        int n = matrix[0].length;
-        int[] heights = new int[n];
-        int[] lr = new int[n];
-        int[] rl = new int[n];
-        Stack<Integer> st = new Stack<>();
-        int maxArea = 0;
-        for(int i = 0; i<m; i++){
-            for(int j = 0; j<n; j++){
-                if(matrix[i][j] == '1') heights[j]+=1;
-                else heights[j] = 0;
+        int m = matrix.length, n = matrix[0].length;
+        int res = 0;
+        int[] nums = new int[n];
+        for(int i = 0; i<m; i++) {
+            for(int j = 0; j<n; j++) {
+                if(matrix[i][j] == '1') {
+                    nums[j]++;
+                } else {
+                    nums[j] = 0;
+                }
             }
-            maxArea = Math.max(maxArea, largestRectangleArea(heights, lr, rl, st));
+            res = Math.max(res, largestRectangleArea(nums));
         }
-        return maxArea;
+        return res;
+        
     }
-    
-    public int largestRectangleArea(int[] heights, int[] lr, int[] rl, Stack<Integer> st) {
-        int n = heights.length;
-        int ans = 0;
-        st.clear();
-        for(int i = 0; i<n; i++){
-            while(!st.isEmpty() && heights[st.peek()]>=heights[i]){
+    public int largestRectangleArea(int[] nums) {
+        int n = nums.length;
+        long res = 0;
+        int[] left = new int[n];
+        int[] right = new int[n];
+        Stack<Integer> st = new Stack<>();
+        for(int i = 0; i<n; i++) {
+            while(!st.isEmpty() && nums[st.peek()] >= nums[i]) {
                 st.pop();
             }
-            if(st.isEmpty()) {
-                lr[i] = -1;
-            }else {
-                lr[i] = st.peek();
-            }
+            left[i] = st.isEmpty() ? -1 : st.peek();
             st.push(i);
         }
         st.clear();
-        for(int i = n-1; i>=0; i--){
-            while(!st.isEmpty() && heights[st.peek()]>=heights[i]){
+        for(int i = n-1; i>=0; i--) {
+            while(!st.isEmpty() && nums[st.peek()] >= nums[i]) {
                 st.pop();
             }
-            if(st.isEmpty()) {
-                rl[i] = n;
-            }else {
-                rl[i] = st.peek();
-            }
+            right[i] = st.isEmpty() ? n : st.peek();
             st.push(i);
         }
-        for(int i = 0; i<n; i++){
-            int width = rl[i] - lr[i] - 1;
-            ans = Math.max(ans, Math.abs(heights[i]*width));
+        for(int i = 0; i<n; i++) {
+            res = Math.max(res, (right[i]-left[i]-1)*(long)nums[i]);
         }
-        return ans;
+        return (int)res;
     }
 }
