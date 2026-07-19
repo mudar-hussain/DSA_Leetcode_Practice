@@ -124,6 +124,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2402-meeting-rooms-iii](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2402-meeting-rooms-iii) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [2454-next-greater-element-iv](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2454-next-greater-element-iv) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2536-increment-submatrices-by-one](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2536-increment-submatrices-by-one) |
 | [2560-house-robber-iv](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2560-house-robber-iv) |
@@ -250,6 +251,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2402-meeting-rooms-iii](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2402-meeting-rooms-iii) |
+| [2454-next-greater-element-iv](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2454-next-greater-element-iv) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2887-sort-vowels-in-a-string](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2887-sort-vowels-in-a-string) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2966-divide-array-into-arrays-with-max-difference) |
@@ -365,6 +367,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [1094-car-pooling](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1094-car-pooling) |
 | [1917-maximum-average-pass-ratio](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1917-maximum-average-pass-ratio) |
 | [2402-meeting-rooms-iii](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2402-meeting-rooms-iii) |
+| [2454-next-greater-element-iv](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2454-next-greater-element-iv) |
 | [3678-design-task-manager](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/3678-design-task-manager) |
 ## Geometry
 |  |
@@ -508,6 +511,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [2187-minimum-time-to-complete-trips](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2187-minimum-time-to-complete-trips) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2454-next-greater-element-iv](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2454-next-greater-element-iv) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2560-house-robber-iv](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2560-house-robber-iv) |
 | [2972-count-the-number-of-incremovable-subarrays-ii](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2972-count-the-number-of-incremovable-subarrays-ii) |
@@ -602,6 +606,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [1544-make-the-string-great](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1544-make-the-string-great) |
 | [1856-maximum-subarray-min-product](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1856-maximum-subarray-min-product) |
 | [2104-sum-of-subarray-ranges](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2104-sum-of-subarray-ranges) |
+| [2454-next-greater-element-iv](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2454-next-greater-element-iv) |
 | [2866-beautiful-towers-ii](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2866-beautiful-towers-ii) |
 | [3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
@@ -622,6 +627,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [0907-sum-of-subarray-minimums](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0907-sum-of-subarray-minimums) |
 | [1856-maximum-subarray-min-product](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1856-maximum-subarray-min-product) |
 | [2104-sum-of-subarray-ranges](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2104-sum-of-subarray-ranges) |
+| [2454-next-greater-element-iv](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2454-next-greater-element-iv) |
 | [2866-beautiful-towers-ii](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2866-beautiful-towers-ii) |
 | [3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
