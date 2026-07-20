@@ -302,6 +302,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0002-add-two-numbers) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [1472-design-browser-history](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1472-design-browser-history) |
 ## Math
 |  |
@@ -449,6 +450,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 ## Breadth-First Search
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0404-sum-of-left-leaves](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0404-sum-of-left-leaves) |
 | [0407-trapping-rain-water-ii](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0407-trapping-rain-water-ii) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -560,6 +562,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 ## Tree
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0404-sum-of-left-leaves) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0589-n-ary-tree-preorder-traversal) |
@@ -569,6 +572,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 ## Depth-First Search
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0404-sum-of-left-leaves) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0589-n-ary-tree-preorder-traversal) |
@@ -578,6 +582,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 ## Binary Tree
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0404-sum-of-left-leaves) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0637-average-of-levels-in-binary-tree) |
