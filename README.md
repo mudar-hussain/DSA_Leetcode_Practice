@@ -450,6 +450,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0407-trapping-rain-water-ii) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Matrix
@@ -560,6 +561,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Depth-First Search
@@ -567,12 +569,14 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Binary Tree
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0144-binary-tree-preorder-traversal) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Stack
