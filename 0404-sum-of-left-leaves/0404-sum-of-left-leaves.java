@@ -15,25 +15,15 @@
  */
 class Solution {
     public int sumOfLeftLeaves(TreeNode root) {
+        if(root == null) return 0;
         int sum = 0;
-        if(root == null) return sum;
-        Queue<TreeNode> q = new LinkedList<>();
-
-        q.offer(root);
-
-        while(!q.isEmpty()) {
-            int size = q.size();
-            for(int i = 0; i<size; i++) {
-                TreeNode curr = q.poll();
-                if(curr.left != null) {
-                    if(curr.left.left == null && curr.left.right == null)
-                        sum += curr.left.val;
-                    q.offer(curr.left);
-                }
-                if(curr.right != null) q.offer(curr.right);
-            }
-            
+        if(root.left!=null && root.left.left == null && root.left.right == null ) {
+            sum += root.left.val;
         }
+        sum += sumOfLeftLeaves(root.left);
+        sum += sumOfLeftLeaves(root.right);
         return sum;
+
+        
     }
 }
