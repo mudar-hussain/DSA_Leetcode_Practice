@@ -316,6 +316,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [0367-valid-perfect-square](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0441-arranging-coins) |
 | [0523-continuous-subarray-sum](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0523-continuous-subarray-sum) |
+| [0738-monotone-increasing-digits](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0738-monotone-increasing-digits) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1266-minimum-time-visiting-all-points](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1266-minimum-time-visiting-all-points) |
@@ -344,6 +345,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0611-valid-triangle-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0646-maximum-length-of-pair-chain) |
+| [0738-monotone-increasing-digits](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0738-monotone-increasing-digits) |
 | [0759-set-intersection-size-at-least-two](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0759-set-intersection-size-at-least-two) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
