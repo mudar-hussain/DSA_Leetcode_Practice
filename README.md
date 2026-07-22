@@ -102,6 +102,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [1306-jump-game-iii](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1306-jump-game-iii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1472-design-browser-history](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1472-design-browser-history) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
@@ -371,6 +372,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [0658-find-k-closest-elements](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0692-top-k-frequent-words) |
 | [1094-car-pooling](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1094-car-pooling) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1917-maximum-average-pass-ratio](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1917-maximum-average-pass-ratio) |
 | [2402-meeting-rooms-iii](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2402-meeting-rooms-iii) |
 | [2454-next-greater-element-iv](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2454-next-greater-element-iv) |
@@ -439,6 +441,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 ## Ordered Set
 |  |
 | ------- |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1818-minimum-absolute-sum-difference](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1818-minimum-absolute-sum-difference) |
 | [3678-design-task-manager](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/3678-design-task-manager) |
 ## Simulation
@@ -660,16 +663,19 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0918-maximum-sum-circular-subarray) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0918-maximum-sum-circular-subarray) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Sliding Window
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0658-find-k-closest-elements](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0658-find-k-closest-elements) |
 | [0930-binary-subarrays-with-sum](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0930-binary-subarrays-with-sum) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1871-jump-game-vii](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1871-jump-game-vii) |
 ## Game Theory
