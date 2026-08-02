@@ -107,6 +107,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [1472-design-browser-history](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1472-design-browser-history) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [1590-make-sum-divisible-by-p](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1590-make-sum-divisible-by-p) |
+| [1696-jump-game-vi](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1696-jump-game-vi) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1818-minimum-absolute-sum-difference](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1818-minimum-absolute-sum-difference) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -180,6 +181,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [0907-sum-of-subarray-minimums](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0907-sum-of-subarray-minimums) |
 | [0918-maximum-sum-circular-subarray](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0918-maximum-sum-circular-subarray) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
+| [1696-jump-game-vi](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1696-jump-game-vi) |
 | [1871-jump-game-vii](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1871-jump-game-vii) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2560-house-robber-iv](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2560-house-robber-iv) |
@@ -373,6 +375,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [0692-top-k-frequent-words](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0692-top-k-frequent-words) |
 | [1094-car-pooling](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1094-car-pooling) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1696-jump-game-vi](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1696-jump-game-vi) |
 | [1917-maximum-average-pass-ratio](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1917-maximum-average-pass-ratio) |
 | [2402-meeting-rooms-iii](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2402-meeting-rooms-iii) |
 | [2454-next-greater-element-iv](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2454-next-greater-element-iv) |
@@ -664,11 +667,13 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [0387-first-unique-character-in-a-string](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0918-maximum-sum-circular-subarray) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1696-jump-game-vi](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1696-jump-game-vi) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0918-maximum-sum-circular-subarray) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1696-jump-game-vi](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1696-jump-game-vi) |
 ## Sliding Window
 |  |
 | ------- |
