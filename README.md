@@ -312,6 +312,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | ------- |
 | [0002-add-two-numbers](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0021-merge-two-sorted-lists) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0206-reverse-linked-list](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0234-palindrome-linked-list) |
