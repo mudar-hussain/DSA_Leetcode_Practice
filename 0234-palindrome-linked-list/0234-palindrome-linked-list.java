@@ -10,24 +10,28 @@
  */
 class Solution {
     public boolean isPalindrome(ListNode head) {
-        ListNode pt = head;
-        int n = 0;
-        while(pt!=null) {
-            n++;
-            pt = pt.next;
+        ListNode fast = head, slow = head, prev, temp;
+        while(fast != null && fast.next != null) {
+            slow = slow.next;
+            fast = fast.next.next;
         }
-        boolean isOdd = n%2!=0;
-        n = n/2;
-        int[] seq = new int[n+1];
-        for(int i = 1; i<=n; i++) {
-            seq[i] = head.val;
-            head = head.next;
+        prev = slow;
+        slow = slow.next;
+        prev.next = null;
+        while(slow!=null) {
+            temp = slow.next;
+            slow.next = prev;
+            prev = slow;
+            slow = temp;
         }
-        if(isOdd) head = head.next;
-        while(head!=null) {
-            if(seq[n--] != head.val) return false;
-            head = head.next;
+        fast = head;
+        slow = prev;
+        while(slow!=null) {
+            if(fast.val != slow.val) return false;
+            fast = fast.next;
+            slow = slow.next;
         }
         return true;
+        
     }
 }
