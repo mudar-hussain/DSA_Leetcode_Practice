@@ -327,6 +327,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [0234-palindrome-linked-list](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0328-odd-even-linked-list) |
+| [0382-linked-list-random-node](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0382-linked-list-random-node) |
 | [0876-middle-of-the-linked-list](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0876-middle-of-the-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1019-next-greater-node-in-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -341,6 +342,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [0069-sqrtx](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0069-sqrtx) |
 | [0227-basic-calculator-ii](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0227-basic-calculator-ii) |
 | [0367-valid-perfect-square](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0367-valid-perfect-square) |
+| [0382-linked-list-random-node](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0382-linked-list-random-node) |
 | [0441-arranging-coins](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0441-arranging-coins) |
 | [0523-continuous-subarray-sum](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0523-continuous-subarray-sum) |
 | [0738-monotone-increasing-digits](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0738-monotone-increasing-digits) |
@@ -753,4 +755,12 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0148-sort-list) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0382-linked-list-random-node) |
+## Randomized
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0382-linked-list-random-node) |
 <!---LeetCode Topics End-->
