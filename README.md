@@ -94,6 +94,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [0977-squares-of-a-sorted-array](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0986-interval-list-intersections) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1019-next-greater-node-in-linked-list](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1019-next-greater-node-in-linked-list) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1094-car-pooling](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1094-car-pooling) |
 | [1207-unique-number-of-occurrences](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1207-unique-number-of-occurrences) |
@@ -324,6 +325,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [0237-delete-node-in-a-linked-list](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0876-middle-of-the-linked-list) |
+| [1019-next-greater-node-in-linked-list](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1019-next-greater-node-in-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1472-design-browser-history](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1472-design-browser-history) |
 ## Math
@@ -653,6 +655,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [0901-online-stock-span](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0907-sum-of-subarray-minimums) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1019-next-greater-node-in-linked-list](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1019-next-greater-node-in-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
@@ -679,6 +682,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [0853-car-fleet](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0853-car-fleet) |
 | [0901-online-stock-span](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0907-sum-of-subarray-minimums) |
+| [1019-next-greater-node-in-linked-list](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1019-next-greater-node-in-linked-list) |
 | [1856-maximum-subarray-min-product](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1856-maximum-subarray-min-product) |
 | [2104-sum-of-subarray-ranges](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2104-sum-of-subarray-ranges) |
 | [2454-next-greater-element-iv](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2454-next-greater-element-iv) |
