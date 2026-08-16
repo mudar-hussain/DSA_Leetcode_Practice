@@ -162,6 +162,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0918-maximum-sum-circular-subarray](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0918-maximum-sum-circular-subarray) |
@@ -202,6 +203,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0125-valid-palindrome) |
+| [0148-sort-list](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0283-move-zeroes) |
@@ -232,6 +234,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [0056-merge-intervals](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0349-intersection-of-two-arrays) |
@@ -314,6 +317,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [0021-merge-two-sorted-lists](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0148-sort-list](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0234-palindrome-linked-list) |
@@ -736,4 +740,8 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | ------- |
 | [0901-online-stock-span](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0901-online-stock-span) |
 | [1472-design-browser-history](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1472-design-browser-history) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
