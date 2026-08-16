@@ -339,6 +339,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [0237-delete-node-in-a-linked-list](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0328-odd-even-linked-list) |
 | [0382-linked-list-random-node](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0382-linked-list-random-node) |
+| [0445-add-two-numbers-ii](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0445-add-two-numbers-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0876-middle-of-the-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1019-next-greater-node-in-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -355,6 +356,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [0367-valid-perfect-square](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0367-valid-perfect-square) |
 | [0382-linked-list-random-node](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0382-linked-list-random-node) |
 | [0441-arranging-coins](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0441-arranging-coins) |
+| [0445-add-two-numbers-ii](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0445-add-two-numbers-ii) |
 | [0523-continuous-subarray-sum](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0523-continuous-subarray-sum) |
 | [0738-monotone-increasing-digits](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0738-monotone-increasing-digits) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1064-smallest-integer-divisible-by-k) |
@@ -663,6 +665,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [0321-create-maximum-number](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0321-create-maximum-number) |
 | [0394-decode-string](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0402-remove-k-digits) |
+| [0445-add-two-numbers-ii](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0581-shortest-unsorted-continuous-subarray) |
