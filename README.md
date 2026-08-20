@@ -208,6 +208,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [0125-valid-palindrome](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -332,6 +333,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0141-linked-list-cycle](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0203-remove-linked-list-elements) |
@@ -378,6 +380,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | ------- |
 | [0002-add-two-numbers](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0021-merge-two-sorted-lists) |
+| [0143-reorder-list](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0234-palindrome-linked-list) |
@@ -660,6 +663,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [0071-simplify-path](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0085-maximal-rectangle) |
+| [0143-reorder-list](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0155-min-stack) |
 | [0227-basic-calculator-ii](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0227-basic-calculator-ii) |
