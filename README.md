@@ -345,6 +345,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [0382-linked-list-random-node](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0382-linked-list-random-node) |
 | [0445-add-two-numbers-ii](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0445-add-two-numbers-ii) |
 | [0707-design-linked-list](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0707-design-linked-list) |
+| [0725-split-linked-list-in-parts](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0725-split-linked-list-in-parts) |
 | [0876-middle-of-the-linked-list](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0876-middle-of-the-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1019-next-greater-node-in-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
