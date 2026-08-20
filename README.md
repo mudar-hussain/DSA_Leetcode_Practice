@@ -162,6 +162,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0215-kth-largest-element-in-an-array) |
@@ -328,6 +329,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [0002-add-two-numbers](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0092-reverse-linked-list-ii) |
@@ -418,6 +420,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0407-trapping-rain-water-ii](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0407-trapping-rain-water-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0451-sort-characters-by-frequency) |
@@ -779,6 +782,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0148-sort-list) |
 ## Reservoir Sampling
 |  |
@@ -793,4 +797,8 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | ------- |
 | [0141-linked-list-cycle](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0142-linked-list-cycle-ii) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
