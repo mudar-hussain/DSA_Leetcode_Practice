@@ -347,6 +347,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [0237-delete-node-in-a-linked-list](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0328-odd-even-linked-list) |
 | [0382-linked-list-random-node](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0382-linked-list-random-node) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0445-add-two-numbers-ii) |
 | [0707-design-linked-list](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0707-design-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0725-split-linked-list-in-parts) |
@@ -652,6 +653,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0404-sum-of-left-leaves) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -780,6 +782,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [1472-design-browser-history](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1472-design-browser-history) |
 ## Data Stream
 |  |
