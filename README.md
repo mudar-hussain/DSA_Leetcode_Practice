@@ -437,6 +437,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [1094-car-pooling](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1094-car-pooling) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1696-jump-game-vi](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1696-jump-game-vi) |
+| [1845-seat-reservation-manager](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1845-seat-reservation-manager) |
 | [1917-maximum-average-pass-ratio](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1917-maximum-average-pass-ratio) |
 | [2402-meeting-rooms-iii](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2402-meeting-rooms-iii) |
 | [2454-next-greater-element-iv](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2454-next-greater-element-iv) |
@@ -503,6 +504,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [0901-online-stock-span](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0901-online-stock-span) |
 | [0911-online-election](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0911-online-election) |
 | [1472-design-browser-history](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1472-design-browser-history) |
+| [1845-seat-reservation-manager](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1845-seat-reservation-manager) |
 | [3678-design-task-manager](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/3678-design-task-manager) |
 ## Ordered Set
 |  |
