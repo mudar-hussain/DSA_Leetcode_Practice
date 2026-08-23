@@ -1,22 +1,24 @@
 class Solution {
     public long maxSum(int[][] grid, int[] limits, int k) {
-        Queue<Integer>[] pq = new Queue[grid.length];
         for(int i = 0; i<grid.length; i++) {
-            pq[i] = new PriorityQueue<>(Collections.reverseOrder());
-            for(int j = 0; j<grid[i].length; j++) {
-                pq[i].offer(grid[i][j]);
+            Arrays.sort(grid[i]);
+        }
+        int n = 0;
+        for(int i=0; i<limits.length; i++) n += Math.min(limits[i], grid[i].length);
+        int[] arr = new int[n];
+        n = 0;
+        for(int i = 0; i<grid.length; i++) {
+            for(int j = grid[i].length - 1; j >= grid[i].length - Math.min(limits[i], grid[i].length); j--) {
+                arr[n++] = grid[i][j];
             }
         }
-        Queue<Integer> max = new PriorityQueue<>(Collections.reverseOrder());
-        for(int i = 0; i<grid.length; i++) {
-            for(int j = 0; j<limits[i]; j++) {
-                max.offer(pq[i].poll());
-            }
-        }
-        long res = 0;
+        Arrays.sort(arr);
+        long sum = 0;
+        n = arr.length-1;
         while(k-->0) {
-            res += max.poll();
+            sum += arr[n--];
         }
-        return res;
+        return sum;
+        
     }
 }
