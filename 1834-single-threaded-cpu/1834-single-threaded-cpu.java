@@ -29,7 +29,7 @@ class Solution {
                 pq.offer(arr[taskIdx++]);
             }
             if(pq.isEmpty()) {
-                currTime = arr[taskIdx].enqueueTime;
+                currTime = Math.max(currTime, arr[taskIdx].enqueueTime);
             } else {
                 currTime += pq.peek().processingTime;
                 res[resIdx++] = pq.poll().idx;
