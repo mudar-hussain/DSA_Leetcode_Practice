@@ -150,6 +150,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 | [3169-count-days-without-meetings](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/3169-count-days-without-meetings) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3275-k-th-nearest-obstacle-queries](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/3275-k-th-nearest-obstacle-queries) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3355-zero-array-transformation-i](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/3355-zero-array-transformation-i) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
@@ -454,6 +455,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [1917-maximum-average-pass-ratio](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1917-maximum-average-pass-ratio) |
 | [2402-meeting-rooms-iii](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2402-meeting-rooms-iii) |
 | [2454-next-greater-element-iv](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2454-next-greater-element-iv) |
+| [3275-k-th-nearest-obstacle-queries](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/3275-k-th-nearest-obstacle-queries) |
 | [3678-design-task-manager](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/3678-design-task-manager) |
 ## Geometry
 |  |
