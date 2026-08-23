@@ -1,12 +1,4 @@
 class Solution {
-    class Pair {
-        int[] point;
-        int dist;
-        public Pair(int[] point, int dist) {
-            this.point = point;
-            this.dist = dist;
-        }
-    }
     public int[] resultsArray(int[][] queries, int k) {
         Queue<Integer> pq = new PriorityQueue<>(Collections.reverseOrder());
         int[] res = new int[queries.length];
