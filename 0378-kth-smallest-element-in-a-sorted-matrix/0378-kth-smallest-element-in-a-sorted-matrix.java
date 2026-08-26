@@ -4,6 +4,7 @@ class Solution {
         int n = matrix.length;
         Queue<Integer> pq = new PriorityQueue<>(Collections.reverseOrder());
         for(int i = 0; i<n; i++) {
+            if(pq.size() == k && matrix[i][0] > pq.peek()) break;
             for(int j = 0; j<n; j++) {
                 if(pq.size()==k && pq.peek()>matrix[i][j]) {
                     pq.poll();
