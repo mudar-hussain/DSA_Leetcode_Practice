@@ -60,6 +60,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [0321-create-maximum-number](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0321-create-maximum-number) |
 | [0347-top-k-frequent-elements](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0349-intersection-of-two-arrays) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0407-trapping-rain-water-ii) |
 | [0435-non-overlapping-intervals](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0436-find-right-interval) |
@@ -257,6 +258,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [0217-contains-duplicate](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0349-intersection-of-two-arrays) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0436-find-right-interval) |
 | [0451-sort-characters-by-frequency](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0451-sort-characters-by-frequency) |
@@ -442,6 +444,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [0023-merge-k-sorted-lists](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0407-trapping-rain-water-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0658-find-k-closest-elements](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0658-find-k-closest-elements) |
@@ -565,6 +568,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [0085-maximal-rectangle](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0304-range-sum-query-2d-immutable) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0407-trapping-rain-water-ii) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
@@ -591,6 +595,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [0300-longest-increasing-subsequence](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0367-valid-perfect-square) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0436-find-right-interval](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0436-find-right-interval) |
 | [0441-arranging-coins](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0441-arranging-coins) |
 | [0475-heaters](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0475-heaters) |
