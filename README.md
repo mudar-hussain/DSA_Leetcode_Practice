@@ -76,6 +76,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [0575-distribute-candies](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0575-distribute-candies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0611-valid-triangle-number) |
+| [0630-course-schedule-iii](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0630-course-schedule-iii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0646-maximum-length-of-pair-chain) |
 | [0658-find-k-closest-elements](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0692-top-k-frequent-words) |
@@ -266,6 +267,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [0475-heaters](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0475-heaters) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0611-valid-triangle-number) |
+| [0630-course-schedule-iii](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0630-course-schedule-iii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0646-maximum-length-of-pair-chain) |
 | [0658-find-k-closest-elements](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0692-top-k-frequent-words) |
@@ -421,6 +423,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0611-valid-triangle-number) |
+| [0630-course-schedule-iii](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0630-course-schedule-iii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0646-maximum-length-of-pair-chain) |
 | [0738-monotone-increasing-digits](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0738-monotone-increasing-digits) |
 | [0759-set-intersection-size-at-least-two](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0759-set-intersection-size-at-least-two) |
@@ -447,6 +450,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0407-trapping-rain-water-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0451-sort-characters-by-frequency) |
+| [0630-course-schedule-iii](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0630-course-schedule-iii) |
 | [0658-find-k-closest-elements](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0692-top-k-frequent-words) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0703-kth-largest-element-in-a-stream) |
