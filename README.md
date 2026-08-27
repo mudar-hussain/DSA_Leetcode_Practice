@@ -107,6 +107,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1288-remove-covered-intervals](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1288-remove-covered-intervals) |
 | [1306-jump-game-iii](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1306-jump-game-iii) |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -277,6 +278,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [0977-squares-of-a-sorted-array](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1094-car-pooling](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1094-car-pooling) |
 | [1288-remove-covered-intervals](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1288-remove-covered-intervals) |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1818-minimum-absolute-sum-difference](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1818-minimum-absolute-sum-difference) |
@@ -428,6 +430,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [0738-monotone-increasing-digits](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0738-monotone-increasing-digits) |
 | [0759-set-intersection-size-at-least-two](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0759-set-intersection-size-at-least-two) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1917-maximum-average-pass-ratio](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1917-maximum-average-pass-ratio) |
@@ -458,6 +461,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [0973-k-closest-points-to-origin](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1046-last-stone-weight) |
 | [1094-car-pooling](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1094-car-pooling) |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1696-jump-game-vi](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1696-jump-game-vi) |
 | [1834-single-threaded-cpu](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1834-single-threaded-cpu) |
