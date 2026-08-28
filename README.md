@@ -116,6 +116,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [1590-make-sum-divisible-by-p](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1590-make-sum-divisible-by-p) |
 | [1696-jump-game-vi](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1696-jump-game-vi) |
+| [1705-maximum-number-of-eaten-apples](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1705-maximum-number-of-eaten-apples) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1818-minimum-absolute-sum-difference](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1818-minimum-absolute-sum-difference) |
 | [1834-single-threaded-cpu](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1834-single-threaded-cpu) |
@@ -432,6 +433,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
+| [1705-maximum-number-of-eaten-apples](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1705-maximum-number-of-eaten-apples) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1917-maximum-average-pass-ratio](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1917-maximum-average-pass-ratio) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
@@ -464,6 +466,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1696-jump-game-vi](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1696-jump-game-vi) |
+| [1705-maximum-number-of-eaten-apples](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1705-maximum-number-of-eaten-apples) |
 | [1834-single-threaded-cpu](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1834-single-threaded-cpu) |
 | [1845-seat-reservation-manager](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1845-seat-reservation-manager) |
 | [1917-maximum-average-pass-ratio](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1917-maximum-average-pass-ratio) |
