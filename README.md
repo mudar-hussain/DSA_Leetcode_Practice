@@ -524,6 +524,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [1071-greatest-common-divisor-of-strings](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1544-make-the-string-great](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1544-make-the-string-great) |
 | [1768-merge-strings-alternately](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1768-merge-strings-alternately) |
 | [1871-jump-game-vii](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1871-jump-game-vii) |
@@ -810,6 +811,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [0930-binary-subarrays-with-sum](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0930-binary-subarrays-with-sum) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1871-jump-game-vii](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1871-jump-game-vii) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
