@@ -147,6 +147,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [2454-next-greater-element-iv](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2454-next-greater-element-iv) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2517-maximum-tastiness-of-candy-basket) |
+| [2528-maximize-the-minimum-powered-city](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2528-maximize-the-minimum-powered-city) |
 | [2536-increment-submatrices-by-one](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2536-increment-submatrices-by-one) |
 | [2560-house-robber-iv](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2560-house-robber-iv) |
 | [2615-sum-of-distances](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2615-sum-of-distances) |
@@ -454,6 +455,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [2126-destroying-asteroids](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2126-destroying-asteroids) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2517-maximum-tastiness-of-candy-basket) |
+| [2528-maximize-the-minimum-powered-city](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2528-maximize-the-minimum-powered-city) |
 | [2560-house-robber-iv](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2560-house-robber-iv) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3458-select-k-disjoint-special-substrings](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/3458-select-k-disjoint-special-substrings) |
@@ -655,6 +657,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2454-next-greater-element-iv](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2454-next-greater-element-iv) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2517-maximum-tastiness-of-candy-basket) |
+| [2528-maximize-the-minimum-powered-city](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2528-maximize-the-minimum-powered-city) |
 | [2560-house-robber-iv](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2560-house-robber-iv) |
 | [2972-count-the-number-of-incremovable-subarrays-ii](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2972-count-the-number-of-incremovable-subarrays-ii) |
 | [3048-earliest-second-to-mark-indices-i](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/3048-earliest-second-to-mark-indices-i) |
@@ -681,6 +684,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [1856-maximum-subarray-min-product](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1856-maximum-subarray-min-product) |
 | [1871-jump-game-vii](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1871-jump-game-vii) |
 | [2055-plates-between-candles](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2055-plates-between-candles) |
+| [2528-maximize-the-minimum-powered-city](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2528-maximize-the-minimum-powered-city) |
 | [2536-increment-submatrices-by-one](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2536-increment-submatrices-by-one) |
 | [2615-sum-of-distances](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2615-sum-of-distances) |
 | [2845-count-of-interesting-subarrays](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2845-count-of-interesting-subarrays) |
@@ -810,6 +814,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [0918-maximum-sum-circular-subarray](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0918-maximum-sum-circular-subarray) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1696-jump-game-vi](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1696-jump-game-vi) |
+| [2528-maximize-the-minimum-powered-city](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2528-maximize-the-minimum-powered-city) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -840,6 +845,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2528-maximize-the-minimum-powered-city](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2528-maximize-the-minimum-powered-city) |
 ## Game Theory
 |  |
 | ------- |
