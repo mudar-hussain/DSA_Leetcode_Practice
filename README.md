@@ -142,6 +142,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [2402-meeting-rooms-iii](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2402-meeting-rooms-iii) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2454-next-greater-element-iv](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2454-next-greater-element-iv) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2536-increment-submatrices-by-one](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2536-increment-submatrices-by-one) |
 | [2560-house-robber-iv](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2560-house-robber-iv) |
@@ -342,6 +343,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [1590-make-sum-divisible-by-p](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1590-make-sum-divisible-by-p) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2402-meeting-rooms-iii](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2402-meeting-rooms-iii) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2615-sum-of-distances](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2615-sum-of-distances) |
 | [2845-count-of-interesting-subarrays](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2845-count-of-interesting-subarrays) |
 | [3026-maximum-good-subarray-sum](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/3026-maximum-good-subarray-sum) |
@@ -826,6 +828,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1839-longest-substring-of-all-vowels-in-order) |
 | [1871-jump-game-vii](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1871-jump-game-vii) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Game Theory
 |  |
 | ------- |
