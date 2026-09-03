@@ -35,7 +35,7 @@ class Solution {
             power[i] = power[i-1] + diff[i];
         }
         long low = 0;
-        long high = 1L << 40;
+        long high = Arrays.stream(stations).asLongStream().sum() + k;
         while(low<high) {
             long mid = (low + high +1) / 2;
             if(canAchieve(power, r, k, mid)) {
