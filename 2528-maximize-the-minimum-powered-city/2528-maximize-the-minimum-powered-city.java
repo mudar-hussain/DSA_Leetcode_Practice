@@ -1,64 +1,50 @@
 class Solution {
-    public long maxPower(int[] stations, int r, int k) {
-        int n = stations.length;
-        long[] power = new long[n], powerFromRight = new long[n];
-
-        //Left traversal - Accumualate with current station power
-        long currPower = 0;
-        for(int i=0;i<n;i++){
-            currPower += power[i] + stations[i]; //Accumulate (any negative power accumulated due to expiry) and (power of curr city)
-            power[i] = currPower; //Update current city's power
-            if(i+r+1<n) power[i+r+1] -= stations[i]; //Expire current city's power
-        }
-
-        //Right traversal - Accumulate without current station power 
-        currPower = 0;
-        for(int i=n-1;i>=0;i--){
-            long rPower = powerFromRight[i]; //Any negative power accumulated due to expiry
-            powerFromRight[i] += currPower; //Add accumulated power from right for current city
-            if(i-r-1>=0) powerFromRight[i-r-1] -= stations[i];  //Expire current city's power
-            currPower += stations[i] + rPower; //Accumulate (any negative power accumulated due to expiry) and (power of curr city)
-        }
-
-        long minPower = Long.MAX_VALUE;
-        for(int i=0;i<n;i++){
-            power[i] += powerFromRight[i];
-            minPower = Math.min(minPower, power[i]); //minPower is the minimum power of any city
-        } 
-        long maxPower = minPower+k, maxMinPower = minPower; //maxPower is minPower+k, maxMinPower is result and has to be atleast minPower
-
-        while(minPower<=maxPower){
-            long mid = (minPower+maxPower)/2;
-            if(canSatisfy(power, mid, (long)k, r)){ //minPower=mid can be satisfied using k extra stations
-                maxMinPower = mid;
-                minPower = mid+1;
-            }
-            else
-                maxPower = mid-1;
-        }
-         
-        return maxMinPower;
-    }
-
-    private boolean canSatisfy(long[] power, long minPower, long k, int r){
+    private boolean canAchieve(long[] power, int r, int k, long target) {
         int n = power.length;
-        long currPower = 0, accumulatedPower[] = new long[n];
-
-        for(int i=0;i<n;i++){
-            long accPow = accumulatedPower[i]; //Any negative power accumulated due to expiry 
-            accumulatedPower[i] += currPower; //Accumulate additional power from previous stations
-            long powerNeeded = minPower - (power[i]+accumulatedPower[i]); //Do we need to add more power to this city?
-
-            if(powerNeeded>0){
-                if(k<powerNeeded) return false; //We don't have enough stations left to reach the desired minPower
-                k -= powerNeeded; //Reduce # of stations
-                currPower += powerNeeded; //Current power increases by # of stations added
-                if(i+2*r+1<n) accumulatedPower[i+2*r+1] -= powerNeeded; //Stations not added to current city but the farthest one for which current city is still in range
+        long[] extra = new long[n+1];
+        long added = 0;
+        long remaining = k;
+        for(int i = 0;i<n; i++) {
+            added += extra[i];
+            long current = power[i] + added;
+            if(current<target) {
+                long need = target-current;
+                if(need>remaining) return false;
+                remaining -= need;
+                added += need;
+                int expire = Math.min(n, i+2*r+1);
+                extra[expire] -= need;
             }
-
-            currPower += accPow; //Accumulate any negative power due to expiry
         }
-
         return true;
     }
+    public long maxPower(int[] stations, int r, int k) {
+        int n = stations.length;
+        long[] power = new long[n];
+        long[] diff = new long[n+1];
+        for(int i = 0;i<n; i++) {
+            int left = Math.max(0, i-r);
+            int right = Math.min(n-1, i+r);
+            diff[left] += stations[i];
+            if(right+1 < n+1) {
+                diff[right+1] -= stations[i];
+            }
+        }
+        power[0] = diff[0];
+        for(int i = 1; i<n; i++) {
+            power[i] = power[i-1] + diff[i];
+        }
+        long low = 0;
+        long high = 1L << 40;
+        while(low<high) {
+            long mid = (low + high +1) / 2;
+            if(canAchieve(power, r, k, mid)) {
+                low = mid;
+            } else {
+                high = mid -1;
+            }
+        }
+        return low;
+    }
+
 }
