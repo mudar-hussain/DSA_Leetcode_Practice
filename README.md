@@ -140,6 +140,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [2161-partition-array-according-to-given-pivot](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2187-minimum-time-to-complete-trips](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2187-minimum-time-to-complete-trips) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2402-meeting-rooms-iii](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2402-meeting-rooms-iii) |
@@ -297,6 +298,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [2070-most-beautiful-item-for-each-query](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2070-most-beautiful-item-for-each-query) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2126-destroying-asteroids](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2126-destroying-asteroids) |
+| [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2402-meeting-rooms-iii](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2402-meeting-rooms-iii) |
@@ -453,6 +455,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [1917-maximum-average-pass-ratio](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1917-maximum-average-pass-ratio) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2126-destroying-asteroids](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2126-destroying-asteroids) |
+| [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2528-maximize-the-minimum-powered-city) |
@@ -654,6 +657,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [2089-find-target-indices-after-sorting-array](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2187-minimum-time-to-complete-trips](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2187-minimum-time-to-complete-trips) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2454-next-greater-element-iv](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2454-next-greater-element-iv) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2517-maximum-tastiness-of-candy-basket) |
@@ -684,6 +688,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [1856-maximum-subarray-min-product](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1856-maximum-subarray-min-product) |
 | [1871-jump-game-vii](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1871-jump-game-vii) |
 | [2055-plates-between-candles](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2055-plates-between-candles) |
+| [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2528-maximize-the-minimum-powered-city) |
 | [2536-increment-submatrices-by-one](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2536-increment-submatrices-by-one) |
 | [2615-sum-of-distances](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2615-sum-of-distances) |
@@ -844,6 +849,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [1871-jump-game-vii](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1871-jump-game-vii) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
+| [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2528-maximize-the-minimum-powered-city) |
 ## Game Theory
