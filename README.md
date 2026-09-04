@@ -561,6 +561,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [1871-jump-game-vii](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1871-jump-game-vii) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1894-merge-strings-alternately](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1894-merge-strings-alternately) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2055-plates-between-candles](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2055-plates-between-candles) |
 | [2887-sort-vowels-in-a-string](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2887-sort-vowels-in-a-string) |
 | [3458-select-k-disjoint-special-substrings](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/3458-select-k-disjoint-special-substrings) |
@@ -663,6 +664,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [1818-minimum-absolute-sum-difference](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1818-minimum-absolute-sum-difference) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2055-plates-between-candles](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2055-plates-between-candles) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2070-most-beautiful-item-for-each-query](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2070-most-beautiful-item-for-each-query) |
@@ -701,6 +703,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [1838-frequency-of-the-most-frequent-element](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1856-maximum-subarray-min-product](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1856-maximum-subarray-min-product) |
 | [1871-jump-game-vii](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1871-jump-game-vii) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2055-plates-between-candles](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2055-plates-between-candles) |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2528-maximize-the-minimum-powered-city) |
@@ -866,6 +869,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1839-longest-substring-of-all-vowels-in-order) |
 | [1871-jump-game-vii](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1871-jump-game-vii) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
