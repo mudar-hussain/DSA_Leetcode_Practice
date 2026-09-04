@@ -108,6 +108,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1094-car-pooling](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1094-car-pooling) |
 | [1207-unique-number-of-occurrences](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1207-unique-number-of-occurrences) |
+| [1248-count-number-of-nice-subarrays](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1248-count-number-of-nice-subarrays) |
 | [1266-minimum-time-visiting-all-points](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1266-minimum-time-visiting-all-points) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1288-remove-covered-intervals](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1288-remove-covered-intervals) |
@@ -350,6 +351,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1207-unique-number-of-occurrences](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1207-unique-number-of-occurrences) |
+| [1248-count-number-of-nice-subarrays](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1248-count-number-of-nice-subarrays) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1590-make-sum-divisible-by-p](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1590-make-sum-divisible-by-p) |
@@ -417,6 +419,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [0973-k-closest-points-to-origin](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0973-k-closest-points-to-origin) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1248-count-number-of-nice-subarrays](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1248-count-number-of-nice-subarrays) |
 | [1266-minimum-time-visiting-all-points](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1266-minimum-time-visiting-all-points) |
 | [1276-number-of-burgers-with-no-waste-of-ingredients](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1276-number-of-burgers-with-no-waste-of-ingredients) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -693,6 +696,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [1004-max-consecutive-ones-iii](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1094-car-pooling](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1094-car-pooling) |
+| [1248-count-number-of-nice-subarrays](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1248-count-number-of-nice-subarrays) |
 | [1590-make-sum-divisible-by-p](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1590-make-sum-divisible-by-p) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1856-maximum-subarray-min-product](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1856-maximum-subarray-min-product) |
@@ -851,6 +855,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [0930-binary-subarrays-with-sum](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1052-grumpy-bookstore-owner) |
+| [1248-count-number-of-nice-subarrays](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1248-count-number-of-nice-subarrays) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
