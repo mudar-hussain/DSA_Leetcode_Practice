@@ -100,6 +100,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [0974-subarray-sums-divisible-by-k](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0986-interval-list-intersections) |
+| [1004-max-consecutive-ones-iii](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1019-next-greater-node-in-linked-list](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1019-next-greater-node-in-linked-list) |
 | [1046-last-stone-weight](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1046-last-stone-weight) |
@@ -649,6 +650,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0875-koko-eating-bananas](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0875-koko-eating-bananas) |
 | [0911-online-election](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0911-online-election) |
+| [1004-max-consecutive-ones-iii](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -686,6 +688,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1094-car-pooling](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1094-car-pooling) |
 | [1590-make-sum-divisible-by-p](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1590-make-sum-divisible-by-p) |
@@ -844,6 +847,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [0658-find-k-closest-elements](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0658-find-k-closest-elements) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0930-binary-subarrays-with-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1052-grumpy-bookstore-owner) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
