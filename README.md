@@ -123,6 +123,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [1590-make-sum-divisible-by-p](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1590-make-sum-divisible-by-p) |
+| [1695-maximum-erasure-value](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1695-maximum-erasure-value) |
 | [1696-jump-game-vi](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1696-jump-game-vi) |
 | [1705-maximum-number-of-eaten-apples](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1705-maximum-number-of-eaten-apples) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
@@ -355,6 +356,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1590-make-sum-divisible-by-p](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1590-make-sum-divisible-by-p) |
+| [1695-maximum-erasure-value](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1695-maximum-erasure-value) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2402-meeting-rooms-iii](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2402-meeting-rooms-iii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -865,6 +867,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1695-maximum-erasure-value](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1695-maximum-erasure-value) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1839-longest-substring-of-all-vowels-in-order) |
 | [1871-jump-game-vii](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1871-jump-game-vii) |
