@@ -1,25 +1,24 @@
 class Solution {
     public int longestSubarray(int[] nums, int limit) {
+        int n = nums.length;
+        int left = 0, right = 0;
         int res = 0;
-        int left = 0;
-        Deque<Integer> minDeque = new ArrayDeque<>();
-        Deque<Integer> maxDeque = new ArrayDeque<>();
-        for(int right = 0; right<nums.length; right++) {
-            while(!minDeque.isEmpty() && nums[minDeque.peekLast()] > nums[right]) {
-                minDeque.pollLast();
-            }
-            while(!maxDeque.isEmpty() && nums[maxDeque.peekLast()] < nums[right]) {
-                maxDeque.pollLast();
-            }
-            minDeque.offerLast(right);
-            maxDeque.offerLast(right);
-            while(nums[maxDeque.peekFirst()]-nums[minDeque.peekFirst()] > limit) {
-                if(maxDeque.peekFirst() == left) maxDeque.pollFirst();
-                if(minDeque.peekFirst() == left) minDeque.pollFirst();
+        Queue<int[]> minpq = new PriorityQueue<>((a,b) -> a[0]!=b[0] ? Integer.compare(a[0], b[0]) : Integer.compare(a[1], b[1]));
+        Queue<int[]> maxpq = new PriorityQueue<>((a,b) -> a[0]!=b[0] ? Integer.compare(b[0], a[0]) : Integer.compare(a[1], b[1]));
+        while(right<n) {
+            minpq.offer(new int[]{nums[right], right});
+            maxpq.offer(new int[]{nums[right], right});
+            while(!minpq.isEmpty() && minpq.peek()[1]<left) minpq.poll();
+            while(!maxpq.isEmpty() && maxpq.peek()[1]<left) maxpq.poll();
+            if(Math.abs(minpq.peek()[0]-maxpq.peek()[0]) > limit) {
                 left++;
+            } else {
+                res = Math.max(res, right-left+1);
+                right++;
             }
-            res = Math.max(res, right-left+1);
         }
         return res;
+
+        
     }
 }
