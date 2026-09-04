@@ -3,8 +3,8 @@ class Solution {
         int n = nums.length;
         int left = 0, right = 0;
         int res = 0;
-        Queue<int[]> minpq = new PriorityQueue<>((a,b) -> a[0]!=b[0] ? Integer.compare(a[0], b[0]) : Integer.compare(a[1], b[1]));
-        Queue<int[]> maxpq = new PriorityQueue<>((a,b) -> a[0]!=b[0] ? Integer.compare(b[0], a[0]) : Integer.compare(a[1], b[1]));
+        Queue<int[]> minpq = new PriorityQueue<>((a,b) -> Integer.compare(a[0], b[0]));
+        Queue<int[]> maxpq = new PriorityQueue<>((a,b) -> Integer.compare(b[0], a[0]));
         while(right<n) {
             minpq.offer(new int[]{nums[right], right});
             maxpq.offer(new int[]{nums[right], right});
