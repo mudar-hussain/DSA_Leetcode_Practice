@@ -202,6 +202,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [0152-maximum-product-subarray](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0300-longest-increasing-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0435-non-overlapping-intervals) |
+| [0509-fibonacci-number](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0509-fibonacci-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0646-maximum-length-of-pair-chain) |
 | [0907-sum-of-subarray-minimums](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0907-sum-of-subarray-minimums) |
 | [0918-maximum-sum-circular-subarray](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0918-maximum-sum-circular-subarray) |
@@ -406,6 +407,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [0382-linked-list-random-node](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0382-linked-list-random-node) |
 | [0441-arranging-coins](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0441-arranging-coins) |
 | [0445-add-two-numbers-ii](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0445-add-two-numbers-ii) |
+| [0509-fibonacci-number](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0523-continuous-subarray-sum) |
 | [0738-monotone-increasing-digits](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0738-monotone-increasing-digits) |
 | [0973-k-closest-points-to-origin](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0973-k-closest-points-to-origin) |
@@ -432,6 +434,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [0206-reverse-linked-list](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0394-decode-string) |
+| [0509-fibonacci-number](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0509-fibonacci-number) |
 ## Greedy
 |  |
 | ------- |
@@ -925,4 +928,8 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 |  |
 | ------- |
 | [0480-sliding-window-median](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0480-sliding-window-median) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
