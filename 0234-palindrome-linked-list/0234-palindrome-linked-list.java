@@ -10,8 +10,9 @@
  */
 class Solution {
     public boolean isPalindrome(ListNode head) {
-        ListNode fast = head, slow = head, prev, temp;
-        while(fast != null && fast.next != null) {
+        if(head == null || head.next == null) return true;
+        ListNode slow = head, fast = head, prev = null, next = null;
+        while(fast!=null && fast.next != null) {
             slow = slow.next;
             fast = fast.next.next;
         }
@@ -19,19 +20,18 @@ class Solution {
         slow = slow.next;
         prev.next = null;
         while(slow!=null) {
-            temp = slow.next;
+            next = slow.next;
             slow.next = prev;
             prev = slow;
-            slow = temp;
+            slow = next;
         }
-        fast = head;
         slow = prev;
+        fast = head;
         while(slow!=null) {
             if(fast.val != slow.val) return false;
             fast = fast.next;
             slow = slow.next;
         }
         return true;
-        
     }
 }
