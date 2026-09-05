@@ -1,16 +1,16 @@
 class Solution {
     public int totalFruit(int[] fruits) {
-        Map<Integer, Integer> map = new HashMap<>();
+        int[] freq = new int[fruits.length];
         int left = 0, distinct = 0;
         int maxFruits = 0;
         for(int right = 0; right<fruits.length; right++) {
-            map.put(fruits[right], map.getOrDefault(fruits[right],0)+1);
-            if(map.get(fruits[right]) == 1) {
+            freq[fruits[right]]++;
+            if(freq[fruits[right]] == 1) {
                 distinct++;
             }
             while(left<right && distinct > 2) {
-                map.put(fruits[left], map.get(fruits[left])-1);
-                if(map.get(fruits[left++]) == 0) {
+                freq[fruits[left]]--;
+                if(freq[fruits[left++]] == 0) {
                     distinct--;
                 }
             }
