@@ -84,6 +84,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [0658-find-k-closest-elements](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0704-binary-search) |
+| [0713-subarray-product-less-than-k](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0735-asteroid-collision) |
 | [0759-set-intersection-size-at-least-two](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0759-set-intersection-size-at-least-two) |
@@ -657,6 +658,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [0611-valid-triangle-number](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0704-binary-search) |
+| [0713-subarray-product-less-than-k](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0713-subarray-product-less-than-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0875-koko-eating-bananas](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0875-koko-eating-bananas) |
@@ -697,6 +699,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [0523-continuous-subarray-sum](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0560-subarray-sum-equals-k) |
+| [0713-subarray-product-less-than-k](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0724-find-pivot-index) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0930-binary-subarrays-with-sum) |
@@ -861,6 +864,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [0480-sliding-window-median](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0480-sliding-window-median) |
 | [0567-permutation-in-string](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0658-find-k-closest-elements) |
+| [0713-subarray-product-less-than-k](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0713-subarray-product-less-than-k) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0904-fruit-into-baskets](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0930-binary-subarrays-with-sum) |
