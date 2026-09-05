@@ -21,13 +21,21 @@ class Solution {
     private ListNode merge(ListNode a, ListNode b) {
         if(a == null) return b;
         if(b == null) return a;
-        if(a.val < b.val) {
-            a.next = merge(a.next, b);
-            return a;
-        } else {
-            b.next = merge(a, b.next);
-            return b;
+        ListNode dummy = new ListNode(0);
+        ListNode curr = dummy;
+        while(a!=null && b!=null) {
+            if(a.val < b.val) {
+                curr.next = a;
+                a = a.next;
+            } else {
+                curr.next = b;
+                b = b.next;
+            }
+            curr = curr.next;
         }
+        if(a!=null) curr.next = a;
+        else if(b!=null) curr.next = b;
+        return dummy.next;
     }
     public ListNode sortList(ListNode head) {
         if(head == null || head.next == null) return head;
