@@ -1,24 +1,20 @@
 class Solution {
-    int end = 1;
-    int start = 0;
-    int maximumWhiteTiles(int[][] tiles, int len) {
-        int result = 0, startTileIndex = 0, covered = 0;
+    public int maximumWhiteTiles(int[][] tiles, int carpetLen) {
+        Arrays.sort(tiles, (a,b) -> Integer.compare(a[0], b[0]));
 
-        Arrays.sort(tiles, Comparator.comparingInt(a -> a[0]));
-
-        for (int endTileIndex = 0; result < len && endTileIndex < tiles.length; )
-            if (startTileIndex == endTileIndex || tiles[startTileIndex][start] + len > tiles[endTileIndex][end]) {
-                covered += Math.min(len, tiles[endTileIndex][end] - tiles[endTileIndex][start] + 1);
+        int result = 0, covered = 0, startIdx = 0;
+        for(int endIdx = 0; result<carpetLen && endIdx<tiles.length; ) {
+            if(startIdx == endIdx || tiles[endIdx][1] < tiles[startIdx][0] + carpetLen) {
+                covered += Math.min(carpetLen, tiles[endIdx][1] - tiles[endIdx][0] + 1);
                 result = Math.max(result, covered);
-                ++endTileIndex;
+                endIdx++;
+            } else {
+                int partial = Math.max(0, tiles[startIdx][0] + carpetLen - tiles[endIdx][0]);
+                result = Math.max(result, covered+partial);
+                covered -= tiles[startIdx][1] - tiles[startIdx][0] + 1;
+                startIdx++;
             }
-            else {
-                int partial = Math.max(0, tiles[startTileIndex][start] + len - tiles[endTileIndex][start]);
-                result = Math.max(result, covered + partial);
-                covered -= (tiles[startTileIndex][end] - tiles[startTileIndex][start] + 1);
-                ++startTileIndex;
-            }
-
+        }
         return result;
     }
 }
