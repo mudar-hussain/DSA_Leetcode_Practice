@@ -15,14 +15,10 @@ class Solution {
         if(idx>=candidates.length || sum>target || candidates[idx] > target) {
             return;
         }
+        dfs(candidates, target, sum, curr, idx+1);
+        
         curr.add(candidates[idx]);
-        sum += candidates[idx];
-        dfs(candidates, target, sum, curr, idx);
-        // dfs(candidates, target, sum, curr, idx+1);
+        dfs(candidates, target, sum + candidates[idx], curr, idx);
         curr.remove(curr.size()-1);
-        sum -= candidates[idx];
-        int next = idx+1;
-        // while(next<candidates.length && candidates[next]==candidates[idx]) next++;
-        dfs(candidates, target, sum, curr, next);
     }
 }
