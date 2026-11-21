@@ -12,7 +12,7 @@ class Solution {
             res.add(new ArrayList<>(curr));
             return;
         }
-        if(idx>=candidates.length || sum>target) {
+        if(idx>=candidates.length || sum>target || candidates[idx] > target) {
             return;
         }
         curr.add(candidates[idx]);
