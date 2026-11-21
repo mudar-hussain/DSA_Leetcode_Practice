@@ -8,7 +8,7 @@ class Solution {
         
     }
     private void dfs(int n, int k, List<Integer> curr, int idx) {
-        if(idx>n && curr.size()==k) {
+        if(curr.size()==k) {
             res.add(new ArrayList<>(curr));
             return;
         }
