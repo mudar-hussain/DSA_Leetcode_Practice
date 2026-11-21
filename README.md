@@ -539,6 +539,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [0078-subsets](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0287-find-the-duplicate-number) |
+| [0784-letter-case-permutation](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0784-letter-case-permutation) |
 | [0868-binary-gap](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0868-binary-gap) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
@@ -564,6 +565,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [0451-sort-characters-by-frequency](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0692-top-k-frequent-words) |
+| [0784-letter-case-permutation](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0784-letter-case-permutation) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0929-unique-email-addresses](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0929-unique-email-addresses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -989,4 +991,5 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [0078-subsets](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0216-combination-sum-iii) |
+| [0784-letter-case-permutation](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0784-letter-case-permutation) |
 <!---LeetCode Topics End-->
