@@ -22,7 +22,7 @@ class Solution {
         curr.remove(curr.size()-1);
         sum -= candidates[idx];
         int next = idx+1;
-        while(next<candidates.length && candidates[next]==candidates[idx]) next++;
+        // while(next<candidates.length && candidates[next]==candidates[idx]) next++;
         dfs(candidates, target, sum, curr, next);
     }
 }
