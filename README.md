@@ -39,6 +39,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [0074-search-a-2d-matrix](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0085-maximal-rectangle) |
@@ -558,6 +559,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [0049-group-anagrams](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0071-simplify-path) |
+| [0079-word-search](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0125-valid-palindrome) |
 | [0227-basic-calculator-ii](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0227-basic-calculator-ii) |
 | [0273-integer-to-english-words](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0273-integer-to-english-words) |
@@ -637,6 +639,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [0059-spiral-matrix-ii](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0304-range-sum-query-2d-immutable) |
@@ -769,6 +772,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0079-word-search) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0144-binary-tree-preorder-traversal) |
@@ -991,6 +995,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [0047-permutations-ii](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0216-combination-sum-iii) |
 | [0494-target-sum](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0494-target-sum) |
