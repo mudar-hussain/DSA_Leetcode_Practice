@@ -76,6 +76,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0475-heaters](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0475-heaters) |
 | [0480-sliding-window-median](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0480-sliding-window-median) |
+| [0494-target-sum](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0523-continuous-subarray-sum) |
@@ -215,6 +216,7 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [0152-maximum-product-subarray](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0300-longest-increasing-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0435-non-overlapping-intervals) |
+| [0494-target-sum](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0509-fibonacci-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0646-maximum-length-of-pair-chain) |
 | [0907-sum-of-subarray-minimums](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0907-sum-of-subarray-minimums) |
@@ -991,5 +993,14 @@ Lines of Code:  [![](https://tokei.rs/b1/github/mudar-hussain/DSA_Practice?categ
 | [0078-subsets](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0216-combination-sum-iii) |
+| [0494-target-sum](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0494-target-sum) |
 | [0784-letter-case-permutation](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0784-letter-case-permutation) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/mudar-hussain/DSA_Leetcode_Practice/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
